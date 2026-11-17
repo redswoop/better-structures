@@ -4,6 +4,13 @@ A personal Minecraft Bedrock add-on for family worlds. It converts buildings fro
 
 Download `BetterStructures.mcaddon` from the [latest release](../../releases/latest) and open it with Minecraft, then activate the pack in a world.
 
+## What it does
+
+- **Structure Wand** (given when you first join): place any converted building, lay out a set side by side, or build a whole village or ruin cluster where you stand.
+- **Automatic structures** (off until you turn them on for a world, from the wand): villages on gentle grassland and ruin clusters in deserts and badlands appear as you explore. They reshape the ground, so leave this off in a world with a base you care about.
+- **Loot:** ruin chests hold three tiers of loot, from iron gear up to diamond gear and netherite scrap.
+- **Village vendors:** each village has a smith who trades common finds for gear, and a cartographer who sells directions to places nobody has reached yet.
+
 ## Credits
 
 The buildings are not mine. They are converted from:

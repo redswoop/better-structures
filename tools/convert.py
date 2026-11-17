@@ -52,19 +52,22 @@ SUBS = {
 BED_COLORS = ["white", "orange", "magenta", "light_blue", "yellow", "lime", "pink", "gray",
               "light_gray", "cyan", "purple", "blue", "brown", "green", "red", "black"]
 
-# Placeholder loot until the mods' own tables are ported.
+# Which of our loot tiers (tools/make_loot.py) each Java loot table becomes.
+# The mod's own tables are thin, and the desert one isn't in the jar at all.
+TIER_OF = [
+    (r"high|value|fortress", "ruin_vault"),
+    (r"low|level_one|ruin_loot$|ancient_ruins", "ruin_common"),
+    (r"philipsruins:", "ruin_treasure"),
+]
+
+
 def loot_for(table):
     t = (table or "").lower()
     if "village" in t:
         return "loot_tables/chests/village/village_plains_house.json"
-    if "nether" in t or "soul" in t:
-        return "loot_tables/chests/nether_bridge.json"
-    if "end" in t:
-        return "loot_tables/chests/end_city_treasure.json"
-    if "desert" in t or "pyramid" in t or "badlands" in t:
-        return "loot_tables/chests/desert_pyramid.json"
-    if "ocean" in t:
-        return "loot_tables/chests/shipwrecktreasure.json"
+    for pattern, tier in TIER_OF:
+        if re.search(pattern, t):
+            return f"loot_tables/bs/{tier}.json"
     return "loot_tables/chests/simple_dungeon.json"
 
 

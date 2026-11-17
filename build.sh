@@ -68,9 +68,10 @@ nbt.dump({"format_version": I(1), "size": Lst(nbt.INT, [I(3), I(1), I(2)]),
 pieces = {}
 for name, kinds in sorted(proj.items()):
     st = nbt.load(f"behavior_pack/structures/bs/{name}.mcstructure", little=True, typed=True)
-    sx, sy, sz = [t.v for t in st["size"]]
-    cells = [t.v for t in st["structure"]["block_indices"][0]]
-    pal = st["structure"]["palette"]["default"]["block_palette"]
+    # Typed lists come back wrapped, so unwrap with .v.
+    sx, sy, sz = [t.v for t in st["size"].v]
+    cells = [t.v for t in st["structure"]["block_indices"].v[0].v]
+    pal = st["structure"]["palette"]["default"]["block_palette"].v
     solid = lambda i: i >= 0 and pal[i]["name"] != "minecraft:air"
     p = {"s": [sx, sy, sz], "j": [
         {"p": j["pos"], "f": j["orientation"].split("_")[0], "u": j["orientation"].split("_")[1],

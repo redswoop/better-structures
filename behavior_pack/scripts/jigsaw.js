@@ -69,11 +69,15 @@ const holds = (b, p) => p[0] >= b[0] && p[0] <= b[3] && p[1] >= b[1] && p[1] <= 
  * @param firstFree (x, z) => y of the first open block above the ground
  * @param data      {PIECES, POOLS}
  * @param spawnPools ids of pools that stand for a mob to spawn rather than a piece
+ * @param canPlace  (box, name) => false to veto a solid piece there (say, over open water)
  * @returns {pieces: [{name, r, o, box, tm, depth}], spawns: [{pool, pos}]}
  */
-export function plan({ site, center, rng, firstFree, data, spawnPools = new Set(), depth = site.depth }) {
+export function plan({ site, center, rng, firstFree, data, spawnPools = new Set(), depth = site.depth, canPlace }) {
   const { PIECES, POOLS } = data;
   const pieces = [], spawns = [];
+  // On the surface every piece needs its own ground: two buildings may not
+  // share a footprint even when one sits higher up a slope.
+  const surface = site.on_surface;
   const startEl = drawOrder(POOLS[site.start_pool], rng).find((el) => el[1]);
   if (!startEl) return { pieces, spawns };
 
@@ -132,13 +136,14 @@ export function plan({ site, center, rng, firstFree, data, spawnPools = new Set(
             if (interior) {
               // Inside the parent's footprint (a house in the crook of a road bend).
               // A draped piece has no real height, so only the footprint counts.
-              const flat = tm || parent.tm;
+              const flat = surface || tm || parent.tm;
               const fits = flat ? box[0] >= parent.box[0] && box[3] <= parent.box[3] && box[2] >= parent.box[2] && box[5] <= parent.box[5] : within(box, parent.box);
               if (!fits || parent.inner.some((b) => overlaps(box, b, flat))) continue;
             } else {
               if (!within(box, limit)) continue;
-              if (pieces.some((p) => !p.interior && overlaps(box, p.box, tm || p.tm))) continue;
+              if (pieces.some((p) => !p.interior && overlaps(box, p.box, surface || tm || p.tm))) continue;
             }
+            if (!tm && canPlace && !canPlace(box, name)) continue;
             const piece = { name, r, o, box, tm, depth: parent.depth + 1, inner: [], interior };
             if (interior) parent.inner.push(box);
             pieces.push(piece);

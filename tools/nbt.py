@@ -22,7 +22,7 @@ def I(v): return Tag(INT, v)
 def L(v): return Tag(LONG, v)
 def F(v): return Tag(FLOAT, v)
 def Str(v): return Tag(STRING, v)
-def Lst(sub, items): return Tag(LIST, items, sub)
+def Lst(sub, items): return Tag(LIST, items, sub if items else None)  # an empty list we make is written untyped, as before
 
 
 _FMT = {BYTE: "b", SHORT: "h", INT: "i", LONG: "q", FLOAT: "f", DOUBLE: "d"}
@@ -51,14 +51,19 @@ class Reader:
         if t == STRING:
             return self.string()
         if t == BYTES:
-            n = self.num("i"); v = self.d[self.p:self.p + n]; self.p += n; return v
+            n = self.num("i"); v = self.d[self.p:self.p + n]; self.p += n
+            return Tag(t, v) if self.typed else v
         if t == INTS:
-            n = self.num("i"); v = list(struct.unpack_from(f"{self.e}{n}i", self.d, self.p)); self.p += 4 * n; return v
+            n = self.num("i"); v = list(struct.unpack_from(f"{self.e}{n}i", self.d, self.p)); self.p += 4 * n
+            return Tag(t, v) if self.typed else v
         if t == LONGS:
-            n = self.num("i"); v = list(struct.unpack_from(f"{self.e}{n}q", self.d, self.p)); self.p += 8 * n; return v
+            n = self.num("i"); v = list(struct.unpack_from(f"{self.e}{n}q", self.d, self.p)); self.p += 8 * n
+            return Tag(t, v) if self.typed else v
         if t == LIST:
             sub = self.num("b"); n = self.num("i")
-            return [self.payload(sub) for _ in range(n)]
+            items = [self.payload(sub) for _ in range(n)]
+            # Typed: keep the element type so the list can be written back unchanged.
+            return Tag(LIST, items, sub) if self.typed else items
         if t == COMPOUND:
             out = {}
             while True:
@@ -108,7 +113,7 @@ class Writer:
         elif t == STRING:
             self.string(x)
         elif t == LIST:
-            sub = v.sub if x else END
+            sub = v.sub if (x or v.sub is not None) else END
             self.num("b", sub); self.num("i", len(x))
             for it in x:
                 self.payload(it)
@@ -118,6 +123,10 @@ class Writer:
             self.num("b", END)
         elif t == INTS:
             self.num("i", len(x)); self.out.append(struct.pack(f"{self.e}{len(x)}i", *x))
+        elif t == LONGS:
+            self.num("i", len(x)); self.out.append(struct.pack(f"{self.e}{len(x)}q", *x))
+        elif t == BYTES:
+            self.num("i", len(x)); self.out.append(bytes(x))
         else:
             raise ValueError(t)
 

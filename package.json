@@ -1,1 +1,1 @@
-{"type":"module","private":true,"scripts":{"test":"node test/plan.mjs > /dev/null && node test/build.mjs"}}
+{"type":"module","private":true,"scripts":{"test":"node test/plan.mjs > /dev/null && node test/build.mjs && node test/place.mjs && node test/cluster.mjs && node test/vendors.mjs"}}
