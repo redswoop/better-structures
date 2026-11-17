@@ -1,0 +1,2854 @@
+{
+ "structures": {
+  "plains__deco__beekeeper": {
+   "size": [
+    3,
+    3,
+    3
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      1,
+      1,
+      2
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      1,
+      2,
+      1
+     ],
+     "orientation": "up_north",
+     "name": "minecraft:empty",
+     "target": "minecraft:building",
+     "pool": "ctov:village/common/bees",
+     "joint": "rollable"
+    }
+   ],
+   "source": "deco/beekeeper",
+   "java_id": "ctov:village/plains/deco/beekeeper"
+  },
+  "plains__decos__hay_bale": {
+   "size": [
+    2,
+    2,
+    2
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      1,
+      0,
+      0
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "decos/hay_bale",
+   "java_id": "ctov:village/plains/decos/hay_bale"
+  },
+  "plains__decos__lamp_1": {
+   "size": [
+    2,
+    6,
+    1
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      1,
+      0,
+      0
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "decos/lamp_1",
+   "java_id": "ctov:village/plains/decos/lamp_1"
+  },
+  "plains__decos__lamp_2": {
+   "size": [
+    2,
+    6,
+    2
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      1,
+      0,
+      1
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "decos/lamp_2",
+   "java_id": "ctov:village/plains/decos/lamp_2"
+  },
+  "plains__decos__lamp_3": {
+   "size": [
+    2,
+    6,
+    3
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      1,
+      0,
+      1
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "decos/lamp_3",
+   "java_id": "ctov:village/plains/decos/lamp_3"
+  },
+  "plains__decos__lamp_4": {
+   "size": [
+    3,
+    6,
+    3
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      2,
+      0,
+      1
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "decos/lamp_4",
+   "java_id": "ctov:village/plains/decos/lamp_4"
+  },
+  "plains__decos__wagon": {
+   "size": [
+    7,
+    3,
+    6
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      3,
+      0,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "decos/wagon",
+   "java_id": "ctov:village/plains/decos/wagon"
+  },
+  "plains__decos__well": {
+   "size": [
+    6,
+    9,
+    6
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      2,
+      3,
+      5
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "decos/well",
+   "java_id": "ctov:village/plains/decos/well"
+  },
+  "plains__house__big_1": {
+   "size": [
+    13,
+    16,
+    11
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      4,
+      0,
+      7
+     ],
+     "orientation": "up_east",
+     "name": "minecraft:empty",
+     "target": "minecraft:bottom",
+     "pool": "minecraft:village/plains/villagers",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      7,
+      0,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      8,
+      0,
+      7
+     ],
+     "orientation": "up_east",
+     "name": "minecraft:empty",
+     "target": "minecraft:bottom",
+     "pool": "minecraft:village/plains/villagers",
+     "joint": "rollable"
+    }
+   ],
+   "source": "house/big_1",
+   "java_id": "ctov:village/plains/house/big_1"
+  },
+  "plains__house__big_2": {
+   "size": [
+    10,
+    13,
+    15
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      4,
+      0,
+      14
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      5,
+      0,
+      6
+     ],
+     "orientation": "up_south",
+     "name": "minecraft:empty",
+     "target": "minecraft:bottom",
+     "pool": "minecraft:village/plains/villagers",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      5,
+      0,
+      8
+     ],
+     "orientation": "up_south",
+     "name": "minecraft:empty",
+     "target": "minecraft:bottom",
+     "pool": "minecraft:village/plains/villagers",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      5,
+      0,
+      11
+     ],
+     "orientation": "up_west",
+     "name": "minecraft:empty",
+     "target": "minecraft:bottom",
+     "pool": "minecraft:village/plains/villagers",
+     "joint": "rollable"
+    }
+   ],
+   "source": "house/big_2",
+   "java_id": "ctov:village/plains/house/big_2"
+  },
+  "plains__house__med_1": {
+   "size": [
+    11,
+    10,
+    15
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      0,
+      7
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "house/med_1",
+   "java_id": "ctov:village/plains/house/med_1"
+  },
+  "plains__house__med_2": {
+   "size": [
+    9,
+    16,
+    17
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      4,
+      0,
+      7
+     ],
+     "orientation": "up_north",
+     "name": "minecraft:empty",
+     "target": "minecraft:bottom",
+     "pool": "minecraft:village/plains/villagers",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      4,
+      0,
+      9
+     ],
+     "orientation": "up_north",
+     "name": "minecraft:empty",
+     "target": "minecraft:bottom",
+     "pool": "minecraft:village/plains/villagers",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      4,
+      0,
+      16
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "house/med_2",
+   "java_id": "ctov:village/plains/house/med_2"
+  },
+  "plains__house__small_1": {
+   "size": [
+    9,
+    9,
+    8
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      4,
+      0,
+      3
+     ],
+     "orientation": "up_south",
+     "name": "minecraft:empty",
+     "target": "minecraft:bottom",
+     "pool": "minecraft:village/plains/villagers",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      4,
+      0,
+      7
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "house/small_1",
+   "java_id": "ctov:village/plains/house/small_1"
+  },
+  "plains__house__small_2": {
+   "size": [
+    9,
+    11,
+    9
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      2,
+      0,
+      3
+     ],
+     "orientation": "up_south",
+     "name": "minecraft:empty",
+     "target": "minecraft:bottom",
+     "pool": "minecraft:village/plains/villagers",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      3,
+      0,
+      5
+     ],
+     "orientation": "up_south",
+     "name": "minecraft:empty",
+     "target": "minecraft:bottom",
+     "pool": "minecraft:village/plains/villagers",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      4,
+      0,
+      8
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "house/small_2",
+   "java_id": "ctov:village/plains/house/small_2"
+  },
+  "plains__house__small_3": {
+   "size": [
+    7,
+    9,
+    8
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      3,
+      0,
+      3
+     ],
+     "orientation": "up_north",
+     "name": "minecraft:empty",
+     "target": "minecraft:bottom",
+     "pool": "minecraft:village/plains/villagers",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      3,
+      0,
+      7
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "house/small_3",
+   "java_id": "ctov:village/plains/house/small_3"
+  },
+  "plains__house__small_4": {
+   "size": [
+    8,
+    10,
+    8
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      3,
+      0,
+      4
+     ],
+     "orientation": "up_north",
+     "name": "minecraft:empty",
+     "target": "minecraft:bottom",
+     "pool": "minecraft:village/plains/villagers",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      3,
+      0,
+      7
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "house/small_4",
+   "java_id": "ctov:village/plains/house/small_4"
+  },
+  "plains__house__small_5": {
+   "size": [
+    8,
+    8,
+    8
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      3,
+      0,
+      7
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      4,
+      0,
+      4
+     ],
+     "orientation": "up_west",
+     "name": "minecraft:empty",
+     "target": "minecraft:bottom",
+     "pool": "minecraft:village/plains/villagers",
+     "joint": "rollable"
+    }
+   ],
+   "source": "house/small_5",
+   "java_id": "ctov:village/plains/house/small_5"
+  },
+  "plains__jobsite__alchemist": {
+   "size": [
+    9,
+    14,
+    9
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      4,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:building_entrance",
+     "pool": "minecraft:empty",
+     "joint": "aligned"
+    }
+   ],
+   "source": "jobsite/alchemist",
+   "java_id": "ctov:village/plains/jobsite/alchemist"
+  },
+  "plains__jobsite__butcher": {
+   "size": [
+    10,
+    9,
+    9
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      0,
+      4
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "jobsite/butcher",
+   "java_id": "ctov:village/plains/jobsite/butcher"
+  },
+  "plains__jobsite__cartography": {
+   "size": [
+    9,
+    10,
+    9
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      4,
+      0,
+      8
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "jobsite/cartography",
+   "java_id": "ctov:village/plains/jobsite/cartography"
+  },
+  "plains__jobsite__chemist": {
+   "size": [
+    7,
+    9,
+    9
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      3,
+      0,
+      8
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "jobsite/chemist",
+   "java_id": "ctov:village/plains/jobsite/chemist"
+  },
+  "plains__jobsite__farm": {
+   "size": [
+    11,
+    4,
+    11
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      5,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "jobsite/farm",
+   "java_id": "ctov:village/plains/jobsite/farm"
+  },
+  "plains__jobsite__fishing_hut": {
+   "size": [
+    11,
+    10,
+    11
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      3,
+      5
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "jobsite/fishing_hut",
+   "java_id": "ctov:village/plains/jobsite/fishing_hut"
+  },
+  "plains__jobsite__library": {
+   "size": [
+    11,
+    13,
+    13
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      5,
+      0,
+      12
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "jobsite/library",
+   "java_id": "ctov:village/plains/jobsite/library"
+  },
+  "plains__jobsite__mason": {
+   "size": [
+    9,
+    9,
+    8
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      4,
+      0,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "jobsite/mason",
+   "java_id": "ctov:village/plains/jobsite/mason"
+  },
+  "plains__jobsite__orchard": {
+   "size": [
+    11,
+    4,
+    11
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      5,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "jobsite/orchard",
+   "java_id": "ctov:village/plains/jobsite/orchard"
+  },
+  "plains__jobsite__pen": {
+   "size": [
+    8,
+    3,
+    8
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      4,
+      1,
+      4
+     ],
+     "orientation": "up_north",
+     "name": "minecraft:empty",
+     "target": "ctov:animals",
+     "pool": "ctov:village/common/animals",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      6,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "jobsite/pen",
+   "java_id": "ctov:village/plains/jobsite/pen"
+  },
+  "plains__jobsite__shepherd": {
+   "size": [
+    9,
+    10,
+    9
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      4,
+      0,
+      8
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "jobsite/shepherd",
+   "java_id": "ctov:village/plains/jobsite/shepherd"
+  },
+  "plains__jobsite__smith": {
+   "size": [
+    12,
+    9,
+    10
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      5,
+      0,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "jobsite/smith",
+   "java_id": "ctov:village/plains/jobsite/smith"
+  },
+  "plains__jobsite__vault": {
+   "size": [
+    9,
+    15,
+    9
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      1,
+      0,
+      3
+     ],
+     "orientation": "up_east",
+     "name": "minecraft:empty",
+     "target": "monobank:vault_monobank",
+     "pool": "monobank:village/monobank/plains",
+     "joint": "aligned"
+    },
+    {
+     "pos": [
+      1,
+      0,
+      5
+     ],
+     "orientation": "up_east",
+     "name": "minecraft:empty",
+     "target": "monobank:vault_monobank",
+     "pool": "monobank:village/monobank/plains",
+     "joint": "aligned"
+    },
+    {
+     "pos": [
+      3,
+      0,
+      7
+     ],
+     "orientation": "up_north",
+     "name": "minecraft:empty",
+     "target": "monobank:vault_monobank",
+     "pool": "monobank:village/monobank/plains",
+     "joint": "aligned"
+    },
+    {
+     "pos": [
+      4,
+      0,
+      4
+     ],
+     "orientation": "up_south",
+     "name": "minecraft:empty",
+     "target": "minecraft:bottom",
+     "pool": "minecraft:village/common/iron_golem",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      5,
+      0,
+      7
+     ],
+     "orientation": "up_north",
+     "name": "minecraft:empty",
+     "target": "monobank:vault_monobank",
+     "pool": "monobank:village/monobank/plains",
+     "joint": "aligned"
+    },
+    {
+     "pos": [
+      7,
+      0,
+      3
+     ],
+     "orientation": "up_west",
+     "name": "minecraft:empty",
+     "target": "monobank:vault_monobank",
+     "pool": "monobank:village/monobank/plains",
+     "joint": "aligned"
+    },
+    {
+     "pos": [
+      7,
+      0,
+      5
+     ],
+     "orientation": "up_west",
+     "name": "minecraft:empty",
+     "target": "monobank:vault_monobank",
+     "pool": "monobank:village/monobank/plains",
+     "joint": "aligned"
+    },
+    {
+     "pos": [
+      4,
+      5,
+      8
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:building_entrance",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "jobsite/vault",
+   "java_id": "ctov:village/plains/jobsite/vault"
+  },
+  "plains__roads__corner_1": {
+   "size": [
+    12,
+    2,
+    12
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      10
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:street",
+     "pool": "ctov:village/plains/roads",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      1,
+      1,
+      9
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      1,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      4,
+      1,
+      9
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      4,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      7,
+      1,
+      9
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      7,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      1
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      4
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      7
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      10,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:street",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      10,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      1
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      4
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      7
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      10
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    }
+   ],
+   "source": "roads/corner_1",
+   "java_id": "ctov:village/plains/roads/corner_1"
+  },
+  "plains__roads__corner_2": {
+   "size": [
+    12,
+    2,
+    12
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      10
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:street",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      1,
+      1,
+      9
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      1,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      4,
+      1,
+      9
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      4,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      7,
+      1,
+      9
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      7,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      1
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      4
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      7
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      10,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:street",
+     "pool": "ctov:village/plains/roads",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      10,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      1
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      4
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      7
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      10
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    }
+   ],
+   "source": "roads/corner_2",
+   "java_id": "ctov:village/plains/roads/corner_2"
+  },
+  "plains__roads__crossroad": {
+   "size": [
+    21,
+    2,
+    21
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      10
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:street",
+     "pool": "ctov:village/plains/roads",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      1,
+      1,
+      9
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      1,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      4,
+      1,
+      9
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      4,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      7,
+      1,
+      9
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      7,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      1
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      4
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      7
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      13
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      16
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      19
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      10,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:street",
+     "pool": "ctov:village/plains/roads",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      10,
+      1,
+      20
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:street",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      1
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      4
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      7
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      13
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      16
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      19
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      13,
+      1,
+      9
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      13,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      16,
+      1,
+      9
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      16,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      19,
+      1,
+      9
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      19,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      20,
+      1,
+      10
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:street",
+     "pool": "ctov:village/plains/roads",
+     "joint": "rollable"
+    }
+   ],
+   "source": "roads/crossroad",
+   "java_id": "ctov:village/plains/roads/crossroad"
+  },
+  "plains__roads__straight": {
+   "size": [
+    3,
+    2,
+    9
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      1
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      0,
+      1,
+      4
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      0,
+      1,
+      7
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      1,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:street",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      1,
+      1,
+      8
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:street",
+     "pool": "ctov:village/plains/roads",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      2,
+      1,
+      1
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      2,
+      1,
+      4
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      2,
+      1,
+      7
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    }
+   ],
+   "source": "roads/straight",
+   "java_id": "ctov:village/plains/roads/straight"
+  },
+  "plains__roads__t_1": {
+   "size": [
+    12,
+    2,
+    21
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      10
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:street",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      1,
+      1,
+      9
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      1,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      4,
+      1,
+      9
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      4,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      7,
+      1,
+      9
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      7,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      1
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      4
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      7
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      13
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      16
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      19
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      10,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:street",
+     "pool": "ctov:village/plains/roads",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      10,
+      1,
+      20
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:street",
+     "pool": "ctov:village/plains/roads",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      1
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      4
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      7
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      10
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      13
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      16
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      19
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    }
+   ],
+   "source": "roads/t_1",
+   "java_id": "ctov:village/plains/roads/t_1"
+  },
+  "plains__roads__t_2": {
+   "size": [
+    12,
+    2,
+    21
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      10
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:street",
+     "pool": "ctov:village/plains/roads",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      1,
+      1,
+      9
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      1,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      4,
+      1,
+      9
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      4,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      7,
+      1,
+      9
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      7,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      1
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      4
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      7
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      13
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      16
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      19
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      10,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:street",
+     "pool": "ctov:village/plains/roads",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      10,
+      1,
+      20
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:street",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      1
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      4
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      7
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      10
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      13
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      16
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      19
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    }
+   ],
+   "source": "roads/t_2",
+   "java_id": "ctov:village/plains/roads/t_2"
+  },
+  "plains__roads__t_3": {
+   "size": [
+    12,
+    2,
+    21
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      10
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:street",
+     "pool": "ctov:village/plains/roads",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      1,
+      1,
+      9
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      1,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      4,
+      1,
+      9
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      4,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      7,
+      1,
+      9
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      7,
+      1,
+      11
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      1
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      4
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      7
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      13
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      16
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      19
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      10,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:street",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      10,
+      1,
+      20
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:street",
+     "pool": "ctov:village/plains/roads",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      1
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      4
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      7
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      10
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      13
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      16
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      1,
+      19
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/deco",
+     "joint": "rollable"
+    }
+   ],
+   "source": "roads/t_3",
+   "java_id": "ctov:village/plains/roads/t_3"
+  },
+  "plains__roads__terminator": {
+   "size": [
+    3,
+    2,
+    2
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      1,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:building_entrance",
+     "pool": "ctov:village/plains/house",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      1,
+      1,
+      1
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:street",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "roads/terminator",
+   "java_id": "ctov:village/plains/roads/terminator"
+  },
+  "plains__town_center": {
+   "size": [
+    17,
+    10,
+    17
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      8
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:street",
+     "pool": "ctov:village/plains/roads",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      8,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:street",
+     "pool": "ctov:village/plains/roads",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      8,
+      1,
+      16
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:street",
+     "pool": "ctov:village/plains/roads",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      16,
+      1,
+      8
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:street",
+     "pool": "ctov:village/plains/roads",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      5,
+      2,
+      8
+     ],
+     "orientation": "up_west",
+     "name": "minecraft:bottom",
+     "target": "minecraft:bottom",
+     "pool": "minecraft:village/common/iron_golem",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      8,
+      2,
+      5
+     ],
+     "orientation": "up_west",
+     "name": "minecraft:bottom",
+     "target": "minecraft:bottom",
+     "pool": "minecraft:village/common/cats",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      8,
+      2,
+      11
+     ],
+     "orientation": "up_east",
+     "name": "minecraft:bottom",
+     "target": "minecraft:bottom",
+     "pool": "minecraft:village/common/cats",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      2,
+      8
+     ],
+     "orientation": "up_north",
+     "name": "minecraft:bottom",
+     "target": "minecraft:bottom",
+     "pool": "minecraft:village/common/iron_golem",
+     "joint": "rollable"
+    }
+   ],
+   "source": "town_center",
+   "java_id": "ctov:village/plains/town_center"
+  }
+ },
+ "skipped_modded": [
+  "deco/archeology_tent",
+  "deco/bard_house",
+  "deco/climatologist",
+  "deco/copper_golem",
+  "deco/garbage_heaps",
+  "deco/goddess_statue",
+  "deco/picnic_mat",
+  "deco/vm",
+  "jobsite/aquarium",
+  "jobsite/archery_range",
+  "jobsite/artist_studio",
+  "jobsite/bakery",
+  "jobsite/balloon_stand",
+  "jobsite/barracks",
+  "jobsite/botanist",
+  "jobsite/chicken_coop",
+  "jobsite/computer_lab",
+  "jobsite/enderologist",
+  "jobsite/engineer",
+  "jobsite/factory",
+  "jobsite/fd_farm",
+  "jobsite/flower_farm",
+  "jobsite/forager",
+  "jobsite/garden",
+  "jobsite/gazebo",
+  "jobsite/gunsmith",
+  "jobsite/horticulturist",
+  "jobsite/hunter",
+  "jobsite/imengineer",
+  "jobsite/irons_jewelry",
+  "jobsite/jewelry_shop",
+  "jobsite/krusty_krab",
+  "jobsite/mechanic",
+  "jobsite/miner",
+  "jobsite/netherologist",
+  "jobsite/occultist",
+  "jobsite/oceanographer",
+  "jobsite/petshop",
+  "jobsite/pokecenter",
+  "jobsite/priest_tower",
+  "jobsite/restaurant",
+  "jobsite/sanctuary",
+  "jobsite/sawmill",
+  "jobsite/scriber",
+  "jobsite/tavern",
+  "jobsite/vineyard",
+  "jobsite/warehouse",
+  "jobsite/windmill",
+  "jobsite/wizard_tower",
+  "jobsite/woodworker",
+  "roads/respawn_obelisk"
+ ],
+ "report": {
+  "substituted": {},
+  "unknown_blocks": {},
+  "block_entities_dropped": {
+   "minecraft:beehive": 1,
+   "minecraft:jukebox": 2,
+   "minecraft:furnace": 7,
+   "minecraft:campfire": 9,
+   "minecraft:smoker": 1,
+   "minecraft:brewing_stand": 1,
+   "minecraft:lectern": 3,
+   "minecraft:blast_furnace": 1,
+   "minecraft:bell": 1
+  },
+  "entities_dropped": {}
+ }
+}

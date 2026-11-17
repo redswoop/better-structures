@@ -1,0 +1,1 @@
+{"type":"module","private":true,"scripts":{"test":"node test/plan.mjs > /dev/null && node test/build.mjs"}}

@@ -1,0 +1,4271 @@
+{
+ "structures": {
+  "ruins__ancient_dungeon_0": {
+   "size": [
+    7,
+    6,
+    7
+   ],
+   "jigsaws": [],
+   "source": "ancient_dungeon_0",
+   "java_id": "philipsruins:ancient_dungeon_0"
+  },
+  "ruins__ancient_dungeon_1": {
+   "size": [
+    10,
+    7,
+    10
+   ],
+   "jigsaws": [],
+   "source": "ancient_dungeon_1",
+   "java_id": "philipsruins:ancient_dungeon_1"
+  },
+  "ruins__ancient_dungeon_10": {
+   "size": [
+    8,
+    6,
+    7
+   ],
+   "jigsaws": [],
+   "source": "ancient_dungeon_10",
+   "java_id": "philipsruins:ancient_dungeon_10"
+  },
+  "ruins__ancient_dungeon_11": {
+   "size": [
+    8,
+    5,
+    10
+   ],
+   "jigsaws": [],
+   "source": "ancient_dungeon_11",
+   "java_id": "philipsruins:ancient_dungeon_11"
+  },
+  "ruins__ancient_dungeon_12": {
+   "size": [
+    14,
+    8,
+    14
+   ],
+   "jigsaws": [],
+   "source": "ancient_dungeon_12",
+   "java_id": "philipsruins:ancient_dungeon_12"
+  },
+  "ruins__ancient_dungeon_13": {
+   "size": [
+    7,
+    5,
+    7
+   ],
+   "jigsaws": [],
+   "source": "ancient_dungeon_13",
+   "java_id": "philipsruins:ancient_dungeon_13"
+  },
+  "ruins__ancient_dungeon_2": {
+   "size": [
+    9,
+    7,
+    10
+   ],
+   "jigsaws": [],
+   "source": "ancient_dungeon_2",
+   "java_id": "philipsruins:ancient_dungeon_2"
+  },
+  "ruins__ancient_dungeon_3": {
+   "size": [
+    9,
+    7,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ancient_dungeon_3",
+   "java_id": "philipsruins:ancient_dungeon_3"
+  },
+  "ruins__ancient_dungeon_4": {
+   "size": [
+    9,
+    10,
+    10
+   ],
+   "jigsaws": [],
+   "source": "ancient_dungeon_4",
+   "java_id": "philipsruins:ancient_dungeon_4"
+  },
+  "ruins__ancient_dungeon_5": {
+   "size": [
+    8,
+    6,
+    7
+   ],
+   "jigsaws": [],
+   "source": "ancient_dungeon_5",
+   "java_id": "philipsruins:ancient_dungeon_5"
+  },
+  "ruins__ancient_dungeon_7": {
+   "size": [
+    8,
+    7,
+    9
+   ],
+   "jigsaws": [],
+   "source": "ancient_dungeon_7",
+   "java_id": "philipsruins:ancient_dungeon_7"
+  },
+  "ruins__ancient_dungeon_8": {
+   "size": [
+    8,
+    7,
+    7
+   ],
+   "jigsaws": [],
+   "source": "ancient_dungeon_8",
+   "java_id": "philipsruins:ancient_dungeon_8"
+  },
+  "ruins__ancient_dungeon_9": {
+   "size": [
+    8,
+    7,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ancient_dungeon_9",
+   "java_id": "philipsruins:ancient_dungeon_9"
+  },
+  "ruins__ancient_pyramid1": {
+   "size": [
+    27,
+    14,
+    16
+   ],
+   "jigsaws": [],
+   "source": "ancient_pyramid1",
+   "java_id": "philipsruins:ancient_pyramid1"
+  },
+  "ruins__ancient_pyramid2": {
+   "size": [
+    26,
+    13,
+    17
+   ],
+   "jigsaws": [],
+   "source": "ancient_pyramid2",
+   "java_id": "philipsruins:ancient_pyramid2"
+  },
+  "ruins__ancient_ruin10": {
+   "size": [
+    8,
+    5,
+    7
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin10",
+   "java_id": "philipsruins:ancient_ruin10"
+  },
+  "ruins__ancient_ruin11": {
+   "size": [
+    12,
+    11,
+    9
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin11",
+   "java_id": "philipsruins:ancient_ruin11"
+  },
+  "ruins__ancient_ruin12": {
+   "size": [
+    11,
+    6,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin12",
+   "java_id": "philipsruins:ancient_ruin12"
+  },
+  "ruins__ancient_ruin13": {
+   "size": [
+    9,
+    5,
+    10
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin13",
+   "java_id": "philipsruins:ancient_ruin13"
+  },
+  "ruins__ancient_ruin16": {
+   "size": [
+    8,
+    8,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin16",
+   "java_id": "philipsruins:ancient_ruin16"
+  },
+  "ruins__ancient_ruin17": {
+   "size": [
+    9,
+    9,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin17",
+   "java_id": "philipsruins:ancient_ruin17"
+  },
+  "ruins__ancient_ruin18": {
+   "size": [
+    5,
+    4,
+    5
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin18",
+   "java_id": "philipsruins:ancient_ruin18"
+  },
+  "ruins__ancient_ruin18_spawner": {
+   "size": [
+    9,
+    6,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin18_spawner",
+   "java_id": "philipsruins:ancient_ruin18_spawner"
+  },
+  "ruins__ancient_ruin19": {
+   "size": [
+    12,
+    8,
+    11
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin19",
+   "java_id": "philipsruins:ancient_ruin19"
+  },
+  "ruins__ancient_ruin2": {
+   "size": [
+    9,
+    5,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin2",
+   "java_id": "philipsruins:ancient_ruin2"
+  },
+  "ruins__ancient_ruin3": {
+   "size": [
+    12,
+    8,
+    10
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin3",
+   "java_id": "philipsruins:ancient_ruin3"
+  },
+  "ruins__ancient_ruin4": {
+   "size": [
+    7,
+    6,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin4",
+   "java_id": "philipsruins:ancient_ruin4"
+  },
+  "ruins__ancient_ruin8": {
+   "size": [
+    7,
+    5,
+    7
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin8",
+   "java_id": "philipsruins:ancient_ruin8"
+  },
+  "ruins__ancient_ruin9": {
+   "size": [
+    3,
+    5,
+    3
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin9",
+   "java_id": "philipsruins:ancient_ruin9"
+  },
+  "ruins__ancient_ruin_1": {
+   "size": [
+    12,
+    4,
+    12
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_1",
+   "java_id": "philipsruins:ancient_ruin_1"
+  },
+  "ruins__ancient_ruin_10": {
+   "size": [
+    9,
+    6,
+    10
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_10",
+   "java_id": "philipsruins:ancient_ruin_10"
+  },
+  "ruins__ancient_ruin_11": {
+   "size": [
+    10,
+    5,
+    12
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_11",
+   "java_id": "philipsruins:ancient_ruin_11"
+  },
+  "ruins__ancient_ruin_12": {
+   "size": [
+    10,
+    6,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_12",
+   "java_id": "philipsruins:ancient_ruin_12"
+  },
+  "ruins__ancient_ruin_13": {
+   "size": [
+    12,
+    7,
+    15
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_13",
+   "java_id": "philipsruins:ancient_ruin_13"
+  },
+  "ruins__ancient_ruin_14": {
+   "size": [
+    8,
+    5,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_14",
+   "java_id": "philipsruins:ancient_ruin_14"
+  },
+  "ruins__ancient_ruin_15": {
+   "size": [
+    7,
+    7,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_15",
+   "java_id": "philipsruins:ancient_ruin_15"
+  },
+  "ruins__ancient_ruin_16": {
+   "size": [
+    8,
+    6,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_16",
+   "java_id": "philipsruins:ancient_ruin_16"
+  },
+  "ruins__ancient_ruin_18": {
+   "size": [
+    13,
+    7,
+    13
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_18",
+   "java_id": "philipsruins:ancient_ruin_18"
+  },
+  "ruins__ancient_ruin_19": {
+   "size": [
+    8,
+    5,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_19",
+   "java_id": "philipsruins:ancient_ruin_19"
+  },
+  "ruins__ancient_ruin_2": {
+   "size": [
+    12,
+    4,
+    10
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_2",
+   "java_id": "philipsruins:ancient_ruin_2"
+  },
+  "ruins__ancient_ruin_20": {
+   "size": [
+    7,
+    6,
+    6
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_20",
+   "java_id": "philipsruins:ancient_ruin_20"
+  },
+  "ruins__ancient_ruin_21": {
+   "size": [
+    6,
+    3,
+    5
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_21",
+   "java_id": "philipsruins:ancient_ruin_21"
+  },
+  "ruins__ancient_ruin_22": {
+   "size": [
+    7,
+    4,
+    7
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_22",
+   "java_id": "philipsruins:ancient_ruin_22"
+  },
+  "ruins__ancient_ruin_23": {
+   "size": [
+    5,
+    3,
+    6
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_23",
+   "java_id": "philipsruins:ancient_ruin_23"
+  },
+  "ruins__ancient_ruin_24": {
+   "size": [
+    5,
+    5,
+    5
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_24",
+   "java_id": "philipsruins:ancient_ruin_24"
+  },
+  "ruins__ancient_ruin_25": {
+   "size": [
+    5,
+    4,
+    6
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_25",
+   "java_id": "philipsruins:ancient_ruin_25"
+  },
+  "ruins__ancient_ruin_26": {
+   "size": [
+    7,
+    4,
+    6
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_26",
+   "java_id": "philipsruins:ancient_ruin_26"
+  },
+  "ruins__ancient_ruin_27": {
+   "size": [
+    5,
+    4,
+    5
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_27",
+   "java_id": "philipsruins:ancient_ruin_27"
+  },
+  "ruins__ancient_ruin_28": {
+   "size": [
+    7,
+    4,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_28",
+   "java_id": "philipsruins:ancient_ruin_28"
+  },
+  "ruins__ancient_ruin_29": {
+   "size": [
+    6,
+    5,
+    5
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_29",
+   "java_id": "philipsruins:ancient_ruin_29"
+  },
+  "ruins__ancient_ruin_3": {
+   "size": [
+    11,
+    5,
+    9
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_3",
+   "java_id": "philipsruins:ancient_ruin_3"
+  },
+  "ruins__ancient_ruin_30": {
+   "size": [
+    6,
+    6,
+    9
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_30",
+   "java_id": "philipsruins:ancient_ruin_30"
+  },
+  "ruins__ancient_ruin_31": {
+   "size": [
+    7,
+    5,
+    5
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_31",
+   "java_id": "philipsruins:ancient_ruin_31"
+  },
+  "ruins__ancient_ruin_32": {
+   "size": [
+    6,
+    5,
+    6
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_32",
+   "java_id": "philipsruins:ancient_ruin_32"
+  },
+  "ruins__ancient_ruin_33": {
+   "size": [
+    10,
+    6,
+    10
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_33",
+   "java_id": "philipsruins:ancient_ruin_33"
+  },
+  "ruins__ancient_ruin_34": {
+   "size": [
+    12,
+    11,
+    12
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_34",
+   "java_id": "philipsruins:ancient_ruin_34"
+  },
+  "ruins__ancient_ruin_35": {
+   "size": [
+    7,
+    10,
+    16
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_35",
+   "java_id": "philipsruins:ancient_ruin_35"
+  },
+  "ruins__ancient_ruin_36": {
+   "size": [
+    7,
+    4,
+    6
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_36",
+   "java_id": "philipsruins:ancient_ruin_36"
+  },
+  "ruins__ancient_ruin_37": {
+   "size": [
+    12,
+    6,
+    10
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_37",
+   "java_id": "philipsruins:ancient_ruin_37"
+  },
+  "ruins__ancient_ruin_38": {
+   "size": [
+    9,
+    6,
+    9
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_38",
+   "java_id": "philipsruins:ancient_ruin_38"
+  },
+  "ruins__ancient_ruin_39": {
+   "size": [
+    8,
+    5,
+    9
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_39",
+   "java_id": "philipsruins:ancient_ruin_39"
+  },
+  "ruins__ancient_ruin_4": {
+   "size": [
+    8,
+    5,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_4",
+   "java_id": "philipsruins:ancient_ruin_4"
+  },
+  "ruins__ancient_ruin_40": {
+   "size": [
+    11,
+    3,
+    11
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_40",
+   "java_id": "philipsruins:ancient_ruin_40"
+  },
+  "ruins__ancient_ruin_5": {
+   "size": [
+    8,
+    6,
+    7
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_5",
+   "java_id": "philipsruins:ancient_ruin_5"
+  },
+  "ruins__ancient_ruin_6": {
+   "size": [
+    10,
+    7,
+    11
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_6",
+   "java_id": "philipsruins:ancient_ruin_6"
+  },
+  "ruins__ancient_ruin_7": {
+   "size": [
+    8,
+    10,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_7",
+   "java_id": "philipsruins:ancient_ruin_7"
+  },
+  "ruins__ancient_ruin_8": {
+   "size": [
+    14,
+    8,
+    13
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_8",
+   "java_id": "philipsruins:ancient_ruin_8"
+  },
+  "ruins__ancient_ruin_9": {
+   "size": [
+    11,
+    5,
+    10
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_9",
+   "java_id": "philipsruins:ancient_ruin_9"
+  },
+  "ruins__ancient_ruin_downstair": {
+   "size": [
+    6,
+    6,
+    7
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_downstair",
+   "java_id": "philipsruins:ancient_ruin_downstair"
+  },
+  "ruins__ancient_ruin_soul1": {
+   "size": [
+    7,
+    4,
+    7
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruin_soul1",
+   "java_id": "philipsruins:ancient_ruin_soul1"
+  },
+  "ruins__ancient_ruins5": {
+   "size": [
+    8,
+    5,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ancient_ruins5",
+   "java_id": "philipsruins:ancient_ruins5"
+  },
+  "ruins__ancient_tower_0": {
+   "size": [
+    13,
+    13,
+    11
+   ],
+   "jigsaws": [],
+   "source": "ancient_tower_0",
+   "java_id": "philipsruins:ancient_tower_0"
+  },
+  "ruins__ancient_tower_1": {
+   "size": [
+    8,
+    6,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ancient_tower_1",
+   "java_id": "philipsruins:ancient_tower_1"
+  },
+  "ruins__ancient_tower_2": {
+   "size": [
+    9,
+    13,
+    9
+   ],
+   "jigsaws": [],
+   "source": "ancient_tower_2",
+   "java_id": "philipsruins:ancient_tower_2"
+  },
+  "ruins__ancient_tower_3": {
+   "size": [
+    8,
+    12,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ancient_tower_3",
+   "java_id": "philipsruins:ancient_tower_3"
+  },
+  "ruins__ancient_tower_4": {
+   "size": [
+    9,
+    17,
+    9
+   ],
+   "jigsaws": [],
+   "source": "ancient_tower_4",
+   "java_id": "philipsruins:ancient_tower_4"
+  },
+  "ruins__ancient_tower_5": {
+   "size": [
+    9,
+    14,
+    10
+   ],
+   "jigsaws": [],
+   "source": "ancient_tower_5",
+   "java_id": "philipsruins:ancient_tower_5"
+  },
+  "ruins__ancient_tower_6": {
+   "size": [
+    11,
+    8,
+    11
+   ],
+   "jigsaws": [],
+   "source": "ancient_tower_6",
+   "java_id": "philipsruins:ancient_tower_6"
+  },
+  "ruins__ancient_tower_7": {
+   "size": [
+    9,
+    7,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ancient_tower_7",
+   "java_id": "philipsruins:ancient_tower_7"
+  },
+  "ruins__ancient_tower_8": {
+   "size": [
+    14,
+    9,
+    13
+   ],
+   "jigsaws": [],
+   "source": "ancient_tower_8",
+   "java_id": "philipsruins:ancient_tower_8"
+  },
+  "ruins__antiquus_crypta_main": {
+   "size": [
+    13,
+    7,
+    16
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      4,
+      0,
+      11
+     ],
+     "orientation": "down_east",
+     "name": "minecraft:room1_antiquus",
+     "target": "minecraft:room1_antiquus",
+     "pool": "philipsruins:antiquus_crypta/room1_antiquus",
+     "joint": "rollable"
+    }
+   ],
+   "source": "antiquus_crypta_main",
+   "java_id": "philipsruins:antiquus_crypta_main"
+  },
+  "ruins__badlands_room1": {
+   "size": [
+    21,
+    10,
+    15
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      5,
+      9,
+      7
+     ],
+     "orientation": "up_north",
+     "name": "minecraft:badlands_start_dungeon",
+     "target": "minecraft:badlands_start_dungeon",
+     "pool": "philipsruins:badlands_dungeon_one/badlands_dungeon_side_pool",
+     "joint": "rollable"
+    }
+   ],
+   "source": "badlands_room1",
+   "java_id": "philipsruins:badlands_room1"
+  },
+  "ruins__badlands_ruin1": {
+   "size": [
+    8,
+    4,
+    8
+   ],
+   "jigsaws": [],
+   "source": "badlands_ruin1",
+   "java_id": "philipsruins:badlands_ruin1"
+  },
+  "ruins__badlands_ruin2": {
+   "size": [
+    12,
+    7,
+    10
+   ],
+   "jigsaws": [],
+   "source": "badlands_ruin2",
+   "java_id": "philipsruins:badlands_ruin2"
+  },
+  "ruins__badlands_start_dungeon": {
+   "size": [
+    11,
+    7,
+    11
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      5,
+      0,
+      5
+     ],
+     "orientation": "down_north",
+     "name": "minecraft:badlands_dungeon_room",
+     "target": "minecraft:badlands_start_dungeon",
+     "pool": "philipsruins:badlands_dungeon_one/badlands_dungeon_side_pool",
+     "joint": "rollable"
+    }
+   ],
+   "source": "badlands_start_dungeon",
+   "java_id": "philipsruins:badlands_start_dungeon"
+  },
+  "ruins__battle_ancient_ruin": {
+   "size": [
+    8,
+    7,
+    8
+   ],
+   "jigsaws": [],
+   "source": "battle_ancient_ruin",
+   "java_id": "philipsruins:battle_ancient_ruin"
+  },
+  "ruins__bone_dungeon_room1": {
+   "size": [
+    20,
+    16,
+    19
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      6
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:room1",
+     "target": "minecraft:room1",
+     "pool": "philipsruins:bone_dungeon/side_pool",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      6,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:room4",
+     "target": "minecraft:room4",
+     "pool": "philipsruins:bone_dungeon/side_pool4",
+     "joint": "rollable"
+    }
+   ],
+   "source": "bone_dungeon_room1",
+   "java_id": "philipsruins:bone_dungeon_room1"
+  },
+  "ruins__bone_dungeon_room2": {
+   "size": [
+    15,
+    14,
+    16
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      7,
+      1,
+      15
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:room2",
+     "target": "minecraft:room2",
+     "pool": "philipsruins:bone_dungeon/side_pool2",
+     "joint": "rollable"
+    }
+   ],
+   "source": "bone_dungeon_room2",
+   "java_id": "philipsruins:bone_dungeon_room2"
+  },
+  "ruins__bone_dungeon_room3": {
+   "size": [
+    20,
+    13,
+    18
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      13,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:room5",
+     "target": "minecraft:room5",
+     "pool": "philipsruins:bone_dungeon/side_pool5",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      19,
+      1,
+      7
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:room3",
+     "target": "minecraft:room3",
+     "pool": "philipsruins:bone_dungeon/side_pool3",
+     "joint": "rollable"
+    }
+   ],
+   "source": "bone_dungeon_room3",
+   "java_id": "philipsruins:bone_dungeon_room3"
+  },
+  "ruins__bone_dungeon_room4": {
+   "size": [
+    19,
+    16,
+    16
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      5,
+      1,
+      15
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:room4",
+     "target": "minecraft:room4",
+     "pool": "philipsruins:bone_dungeon/side_pool4",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      18,
+      1,
+      6
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:room6",
+     "target": "minecraft:room6",
+     "pool": "philipsruins:bone_dungeon/side_pool6",
+     "joint": "rollable"
+    }
+   ],
+   "source": "bone_dungeon_room4",
+   "java_id": "philipsruins:bone_dungeon_room4"
+  },
+  "ruins__bone_dungeon_room5": {
+   "size": [
+    20,
+    14,
+    16
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      13,
+      1,
+      15
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:room5",
+     "target": "minecraft:room5",
+     "pool": "philipsruins:bone_dungeon/side_pool5",
+     "joint": "rollable"
+    }
+   ],
+   "source": "bone_dungeon_room5",
+   "java_id": "philipsruins:bone_dungeon_room5"
+  },
+  "ruins__bone_dungeon_room6": {
+   "size": [
+    19,
+    17,
+    16
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      6
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:room6",
+     "target": "minecraft:room6",
+     "pool": "philipsruins:bone_dungeon/side_pool6",
+     "joint": "rollable"
+    }
+   ],
+   "source": "bone_dungeon_room6",
+   "java_id": "philipsruins:bone_dungeon_room6"
+  },
+  "ruins__bone_dungeon_start": {
+   "size": [
+    16,
+    12,
+    19
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      7
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:room3",
+     "target": "minecraft:room3",
+     "pool": "philipsruins:bone_dungeon/side_pool3",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      7,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:room2",
+     "target": "minecraft:room2",
+     "pool": "philipsruins:bone_dungeon/side_pool2",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      15,
+      1,
+      6
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:room1",
+     "target": "minecraft:room1",
+     "pool": "philipsruins:bone_dungeon/side_pool",
+     "joint": "rollable"
+    }
+   ],
+   "source": "bone_dungeon_start",
+   "java_id": "philipsruins:bone_dungeon_start"
+  },
+  "ruins__crypt_room1": {
+   "size": [
+    19,
+    6,
+    5
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      2
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:room1",
+     "target": "minecraft:room1",
+     "pool": "philipsruins:ancient_crypt/crypt_room1",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:room2",
+     "target": "minecraft:room2",
+     "pool": "philipsruins:ancient_crypt/crypt_room2",
+     "joint": "rollable"
+    }
+   ],
+   "source": "crypt_room1",
+   "java_id": "philipsruins:crypt_room1"
+  },
+  "ruins__crypt_room2": {
+   "size": [
+    16,
+    6,
+    18
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      6,
+      1,
+      17
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:room2",
+     "target": "minecraft:room2",
+     "pool": "philipsruins:ancient_crypt/crypt_room2",
+     "joint": "rollable"
+    }
+   ],
+   "source": "crypt_room2",
+   "java_id": "philipsruins:crypt_room2"
+  },
+  "ruins__crypt_room3": {
+   "size": [
+    15,
+    7,
+    17
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      9,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:room3",
+     "target": "minecraft:room3",
+     "pool": "philipsruins:ancient_crypt/crypt_room3",
+     "joint": "rollable"
+    }
+   ],
+   "source": "crypt_room3",
+   "java_id": "philipsruins:crypt_room3"
+  },
+  "ruins__crypt_room4": {
+   "size": [
+    5,
+    9,
+    5
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      2,
+      1,
+      4
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:room5",
+     "target": "minecraft:room5",
+     "pool": "philipsruins:ancient_crypt/crypt_room5",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      2,
+      8,
+      2
+     ],
+     "orientation": "up_north",
+     "name": "minecraft:room4",
+     "target": "minecraft:room4",
+     "pool": "philipsruins:ancient_crypt/crypt_room4",
+     "joint": "rollable"
+    }
+   ],
+   "source": "crypt_room4",
+   "java_id": "philipsruins:crypt_room4"
+  },
+  "ruins__crypt_room5": {
+   "size": [
+    25,
+    6,
+    17
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      3,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:room5",
+     "target": "minecraft:room5",
+     "pool": "philipsruins:ancient_crypt/crypt_room5",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      17,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:room6",
+     "target": "minecraft:room6",
+     "pool": "philipsruins:ancient_crypt/crypt_room6",
+     "joint": "rollable"
+    }
+   ],
+   "source": "crypt_room5",
+   "java_id": "philipsruins:crypt_room5"
+  },
+  "ruins__crypt_room6": {
+   "size": [
+    19,
+    6,
+    15
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      11,
+      1,
+      14
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:room6",
+     "target": "minecraft:room6",
+     "pool": "philipsruins:ancient_crypt/crypt_room6",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      14,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:room7",
+     "target": "minecraft:room7",
+     "pool": "philipsruins:ancient_crypt/crypt_room7",
+     "joint": "rollable"
+    }
+   ],
+   "source": "crypt_room6",
+   "java_id": "philipsruins:crypt_room6"
+  },
+  "ruins__crypt_room7": {
+   "size": [
+    8,
+    14,
+    6
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      4,
+      1,
+      5
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:room8",
+     "target": "minecraft:room8",
+     "pool": "philipsruins:ancient_crypt/crypt_room8",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      3,
+      9,
+      5
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:room7",
+     "target": "minecraft:room7",
+     "pool": "philipsruins:ancient_crypt/crypt_room7",
+     "joint": "rollable"
+    }
+   ],
+   "source": "crypt_room7",
+   "java_id": "philipsruins:crypt_room7"
+  },
+  "ruins__crypt_room8": {
+   "size": [
+    19,
+    8,
+    23
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      15,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:room8",
+     "target": "minecraft:room8",
+     "pool": "philipsruins:ancient_crypt/crypt_room8",
+     "joint": "rollable"
+    }
+   ],
+   "source": "crypt_room8",
+   "java_id": "philipsruins:crypt_room8"
+  },
+  "ruins__crypt_start": {
+   "size": [
+    8,
+    7,
+    9
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      3,
+      0,
+      6
+     ],
+     "orientation": "down_north",
+     "name": "minecraft:room4",
+     "target": "minecraft:room4",
+     "pool": "philipsruins:ancient_crypt/crypt_room4",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      6,
+      1,
+      8
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:room3",
+     "target": "minecraft:room3",
+     "pool": "philipsruins:ancient_crypt/crypt_room3",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      7,
+      1,
+      6
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:room1",
+     "target": "minecraft:room1",
+     "pool": "philipsruins:ancient_crypt/crypt_room1",
+     "joint": "rollable"
+    }
+   ],
+   "source": "crypt_start",
+   "java_id": "philipsruins:crypt_start"
+  },
+  "ruins__data_pack__level_ruin_three11": {
+   "size": [
+    19,
+    13,
+    19
+   ],
+   "jigsaws": [],
+   "source": "data_pack/level_ruin_three11",
+   "java_id": "philipsruins:data_pack/level_ruin_three11"
+  },
+  "ruins__data_pack__soul_ruins1": {
+   "size": [
+    14,
+    6,
+    15
+   ],
+   "jigsaws": [],
+   "source": "data_pack/soul_ruins1",
+   "java_id": "philipsruins:data_pack/soul_ruins1"
+  },
+  "ruins__data_pack__soul_ruins2": {
+   "size": [
+    5,
+    7,
+    4
+   ],
+   "jigsaws": [],
+   "source": "data_pack/soul_ruins2",
+   "java_id": "philipsruins:data_pack/soul_ruins2"
+  },
+  "ruins__data_pack__soul_ruins3": {
+   "size": [
+    12,
+    7,
+    15
+   ],
+   "jigsaws": [],
+   "source": "data_pack/soul_ruins3",
+   "java_id": "philipsruins:data_pack/soul_ruins3"
+  },
+  "ruins__deep_dungeon_generator": {
+   "size": [
+    9,
+    7,
+    11
+   ],
+   "jigsaws": [],
+   "source": "deep_dungeon_generator",
+   "java_id": "philipsruins:deep_dungeon_generator"
+  },
+  "ruins__deep_ruin2": {
+   "size": [
+    18,
+    7,
+    16
+   ],
+   "jigsaws": [],
+   "source": "deep_ruin2",
+   "java_id": "philipsruins:deep_ruin2"
+  },
+  "ruins__deep_ruin3": {
+   "size": [
+    12,
+    6,
+    11
+   ],
+   "jigsaws": [],
+   "source": "deep_ruin3",
+   "java_id": "philipsruins:deep_ruin3"
+  },
+  "ruins__deep_ruin5": {
+   "size": [
+    20,
+    10,
+    15
+   ],
+   "jigsaws": [],
+   "source": "deep_ruin5",
+   "java_id": "philipsruins:deep_ruin5"
+  },
+  "ruins__deep_ruin6": {
+   "size": [
+    22,
+    12,
+    18
+   ],
+   "jigsaws": [],
+   "source": "deep_ruin6",
+   "java_id": "philipsruins:deep_ruin6"
+  },
+  "ruins__deep_ruin7": {
+   "size": [
+    8,
+    5,
+    7
+   ],
+   "jigsaws": [],
+   "source": "deep_ruin7",
+   "java_id": "philipsruins:deep_ruin7"
+  },
+  "ruins__deep_ruin8": {
+   "size": [
+    22,
+    12,
+    17
+   ],
+   "jigsaws": [],
+   "source": "deep_ruin8",
+   "java_id": "philipsruins:deep_ruin8"
+  },
+  "ruins__deep_ruin9": {
+   "size": [
+    12,
+    8,
+    9
+   ],
+   "jigsaws": [],
+   "source": "deep_ruin9",
+   "java_id": "philipsruins:deep_ruin9"
+  },
+  "ruins__deep_ruinbig1": {
+   "size": [
+    24,
+    9,
+    19
+   ],
+   "jigsaws": [],
+   "source": "deep_ruinbig1",
+   "java_id": "philipsruins:deep_ruinbig1"
+  },
+  "ruins__deep_ruins": {
+   "size": [
+    13,
+    8,
+    10
+   ],
+   "jigsaws": [],
+   "source": "deep_ruins",
+   "java_id": "philipsruins:deep_ruins"
+  },
+  "ruins__deepslate_city1": {
+   "size": [
+    9,
+    5,
+    8
+   ],
+   "jigsaws": [],
+   "source": "deepslate_city1",
+   "java_id": "philipsruins:deepslate_city1"
+  },
+  "ruins__desert_pyramid": {
+   "size": [
+    19,
+    20,
+    19
+   ],
+   "jigsaws": [],
+   "source": "desert_pyramid",
+   "java_id": "philipsruins:desert_pyramid"
+  },
+  "ruins__desert_ruin1": {
+   "size": [
+    15,
+    31,
+    14
+   ],
+   "jigsaws": [],
+   "source": "desert_ruin1",
+   "java_id": "philipsruins:desert_ruin1"
+  },
+  "ruins__desert_ruin2": {
+   "size": [
+    10,
+    3,
+    10
+   ],
+   "jigsaws": [],
+   "source": "desert_ruin2",
+   "java_id": "philipsruins:desert_ruin2"
+  },
+  "ruins__desert_ruin3": {
+   "size": [
+    18,
+    9,
+    18
+   ],
+   "jigsaws": [],
+   "source": "desert_ruin3",
+   "java_id": "philipsruins:desert_ruin3"
+  },
+  "ruins__end_gate_fortress": {
+   "size": [
+    32,
+    41,
+    25
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      17,
+      32,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:end_gate_fortress_two",
+     "target": "minecraft:end_gate_fortress_two",
+     "pool": "philipsruins:end/end_gate_fortress_bridge_one",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      17,
+      32,
+      24
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:end_gate_fortress_one",
+     "target": "minecraft:end_gate_fortress_one",
+     "pool": "philipsruins:end/end_gate_fortress_walkway_one",
+     "joint": "rollable"
+    }
+   ],
+   "source": "end_gate_fortress",
+   "java_id": "philipsruins:end_gate_fortress"
+  },
+  "ruins__end_gate_fortress_bridge0": {
+   "size": [
+    38,
+    38,
+    9
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      32,
+      2
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:end_gate_fortress_one",
+     "target": "minecraft:end_gate_fortress_one",
+     "pool": "philipsruins:end/end_gate_fortress_walkway_one",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      37,
+      32,
+      2
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:end_gate_fortress_two",
+     "target": "minecraft:end_gate_fortress_two",
+     "pool": "philipsruins:end/end_gate_fortress_bridge_one",
+     "joint": "rollable"
+    }
+   ],
+   "source": "end_gate_fortress_bridge0",
+   "java_id": "philipsruins:end_gate_fortress_bridge0"
+  },
+  "ruins__end_gate_fortress_ruin_bridge0": {
+   "size": [
+    22,
+    38,
+    8
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      32,
+      2
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:end_gate_fortress_three",
+     "target": "minecraft:end_gate_fortress_three",
+     "pool": "philipsruins:end/end_gate_fortress_ruin_bridge_one",
+     "joint": "rollable"
+    }
+   ],
+   "source": "end_gate_fortress_ruin_bridge0",
+   "java_id": "philipsruins:end_gate_fortress_ruin_bridge0"
+  },
+  "ruins__end_gate_fortress_walkway0": {
+   "size": [
+    21,
+    40,
+    18
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      32,
+      7
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:end_gate_fortress_two",
+     "target": "minecraft:end_gate_fortress_two",
+     "pool": "philipsruins:end/end_gate_fortress_bridge_one",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      32,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:end_gate_fortress_one",
+     "target": "minecraft:end_gate_fortress_one",
+     "pool": "philipsruins:end/end_gate_fortress_walkway_one",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      11,
+      32,
+      17
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:end_gate_fortress_two",
+     "target": "minecraft:end_gate_fortress_two",
+     "pool": "philipsruins:end/end_gate_fortress_bridge_one",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      20,
+      32,
+      7
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:end_gate_fortress_three",
+     "target": "minecraft:end_gate_fortress_three",
+     "pool": "philipsruins:end/end_gate_fortress_ruin_bridge_one",
+     "joint": "rollable"
+    }
+   ],
+   "source": "end_gate_fortress_walkway0",
+   "java_id": "philipsruins:end_gate_fortress_walkway0"
+  },
+  "ruins__end_ruin1": {
+   "size": [
+    10,
+    6,
+    9
+   ],
+   "jigsaws": [],
+   "source": "end_ruin1",
+   "java_id": "philipsruins:end_ruin1"
+  },
+  "ruins__end_ruin2": {
+   "size": [
+    8,
+    5,
+    8
+   ],
+   "jigsaws": [],
+   "source": "end_ruin2",
+   "java_id": "philipsruins:end_ruin2"
+  },
+  "ruins__end_ruin3": {
+   "size": [
+    12,
+    6,
+    12
+   ],
+   "jigsaws": [],
+   "source": "end_ruin3",
+   "java_id": "philipsruins:end_ruin3"
+  },
+  "ruins__field_stone_ruins1": {
+   "size": [
+    11,
+    9,
+    11
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins1",
+   "java_id": "philipsruins:field_stone_ruins1"
+  },
+  "ruins__field_stone_ruins10": {
+   "size": [
+    9,
+    4,
+    7
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins10",
+   "java_id": "philipsruins:field_stone_ruins10"
+  },
+  "ruins__field_stone_ruins11": {
+   "size": [
+    9,
+    6,
+    7
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins11",
+   "java_id": "philipsruins:field_stone_ruins11"
+  },
+  "ruins__field_stone_ruins12": {
+   "size": [
+    11,
+    8,
+    10
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins12",
+   "java_id": "philipsruins:field_stone_ruins12"
+  },
+  "ruins__field_stone_ruins13": {
+   "size": [
+    11,
+    8,
+    13
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins13",
+   "java_id": "philipsruins:field_stone_ruins13"
+  },
+  "ruins__field_stone_ruins14": {
+   "size": [
+    18,
+    9,
+    20
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins14",
+   "java_id": "philipsruins:field_stone_ruins14"
+  },
+  "ruins__field_stone_ruins15": {
+   "size": [
+    10,
+    10,
+    19
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins15",
+   "java_id": "philipsruins:field_stone_ruins15"
+  },
+  "ruins__field_stone_ruins16": {
+   "size": [
+    12,
+    9,
+    13
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins16",
+   "java_id": "philipsruins:field_stone_ruins16"
+  },
+  "ruins__field_stone_ruins17": {
+   "size": [
+    10,
+    9,
+    10
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins17",
+   "java_id": "philipsruins:field_stone_ruins17"
+  },
+  "ruins__field_stone_ruins18": {
+   "size": [
+    7,
+    4,
+    7
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins18",
+   "java_id": "philipsruins:field_stone_ruins18"
+  },
+  "ruins__field_stone_ruins19": {
+   "size": [
+    7,
+    6,
+    9
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins19",
+   "java_id": "philipsruins:field_stone_ruins19"
+  },
+  "ruins__field_stone_ruins2": {
+   "size": [
+    24,
+    9,
+    23
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins2",
+   "java_id": "philipsruins:field_stone_ruins2"
+  },
+  "ruins__field_stone_ruins20": {
+   "size": [
+    14,
+    5,
+    3
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins20",
+   "java_id": "philipsruins:field_stone_ruins20"
+  },
+  "ruins__field_stone_ruins3": {
+   "size": [
+    15,
+    5,
+    19
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins3",
+   "java_id": "philipsruins:field_stone_ruins3"
+  },
+  "ruins__field_stone_ruins4": {
+   "size": [
+    24,
+    8,
+    18
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins4",
+   "java_id": "philipsruins:field_stone_ruins4"
+  },
+  "ruins__field_stone_ruins5": {
+   "size": [
+    17,
+    12,
+    16
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins5",
+   "java_id": "philipsruins:field_stone_ruins5"
+  },
+  "ruins__field_stone_ruins6": {
+   "size": [
+    20,
+    14,
+    18
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins6",
+   "java_id": "philipsruins:field_stone_ruins6"
+  },
+  "ruins__field_stone_ruins7": {
+   "size": [
+    11,
+    4,
+    10
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins7",
+   "java_id": "philipsruins:field_stone_ruins7"
+  },
+  "ruins__field_stone_ruins8": {
+   "size": [
+    12,
+    4,
+    13
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins8",
+   "java_id": "philipsruins:field_stone_ruins8"
+  },
+  "ruins__field_stone_ruins9": {
+   "size": [
+    14,
+    7,
+    10
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins9",
+   "java_id": "philipsruins:field_stone_ruins9"
+  },
+  "ruins__field_stone_ruins_rock1": {
+   "size": [
+    3,
+    2,
+    3
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins_rock1",
+   "java_id": "philipsruins:field_stone_ruins_rock1"
+  },
+  "ruins__field_stone_ruins_rock2": {
+   "size": [
+    3,
+    2,
+    3
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins_rock2",
+   "java_id": "philipsruins:field_stone_ruins_rock2"
+  },
+  "ruins__field_stone_ruins_rock3": {
+   "size": [
+    3,
+    2,
+    4
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins_rock3",
+   "java_id": "philipsruins:field_stone_ruins_rock3"
+  },
+  "ruins__field_stone_ruins_rock4": {
+   "size": [
+    4,
+    2,
+    4
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins_rock4",
+   "java_id": "philipsruins:field_stone_ruins_rock4"
+  },
+  "ruins__field_stone_ruins_rock5": {
+   "size": [
+    4,
+    3,
+    5
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins_rock5",
+   "java_id": "philipsruins:field_stone_ruins_rock5"
+  },
+  "ruins__field_stone_ruins_rock6": {
+   "size": [
+    3,
+    3,
+    4
+   ],
+   "jigsaws": [],
+   "source": "field_stone_ruins_rock6",
+   "java_id": "philipsruins:field_stone_ruins_rock6"
+  },
+  "ruins__level_one_ruins1": {
+   "size": [
+    10,
+    5,
+    10
+   ],
+   "jigsaws": [],
+   "source": "level_one_ruins1",
+   "java_id": "philipsruins:level_one_ruins1"
+  },
+  "ruins__level_one_ruins10": {
+   "size": [
+    9,
+    4,
+    10
+   ],
+   "jigsaws": [],
+   "source": "level_one_ruins10",
+   "java_id": "philipsruins:level_one_ruins10"
+  },
+  "ruins__level_one_ruins11": {
+   "size": [
+    17,
+    11,
+    18
+   ],
+   "jigsaws": [],
+   "source": "level_one_ruins11",
+   "java_id": "philipsruins:level_one_ruins11"
+  },
+  "ruins__level_one_ruins12": {
+   "size": [
+    7,
+    6,
+    8
+   ],
+   "jigsaws": [],
+   "source": "level_one_ruins12",
+   "java_id": "philipsruins:level_one_ruins12"
+  },
+  "ruins__level_one_ruins13": {
+   "size": [
+    13,
+    6,
+    10
+   ],
+   "jigsaws": [],
+   "source": "level_one_ruins13",
+   "java_id": "philipsruins:level_one_ruins13"
+  },
+  "ruins__level_one_ruins14": {
+   "size": [
+    10,
+    9,
+    12
+   ],
+   "jigsaws": [],
+   "source": "level_one_ruins14",
+   "java_id": "philipsruins:level_one_ruins14"
+  },
+  "ruins__level_one_ruins15": {
+   "size": [
+    6,
+    5,
+    8
+   ],
+   "jigsaws": [],
+   "source": "level_one_ruins15",
+   "java_id": "philipsruins:level_one_ruins15"
+  },
+  "ruins__level_one_ruins16": {
+   "size": [
+    13,
+    8,
+    12
+   ],
+   "jigsaws": [],
+   "source": "level_one_ruins16",
+   "java_id": "philipsruins:level_one_ruins16"
+  },
+  "ruins__level_one_ruins17": {
+   "size": [
+    12,
+    4,
+    12
+   ],
+   "jigsaws": [],
+   "source": "level_one_ruins17",
+   "java_id": "philipsruins:level_one_ruins17"
+  },
+  "ruins__level_one_ruins18": {
+   "size": [
+    15,
+    5,
+    17
+   ],
+   "jigsaws": [],
+   "source": "level_one_ruins18",
+   "java_id": "philipsruins:level_one_ruins18"
+  },
+  "ruins__level_one_ruins19": {
+   "size": [
+    13,
+    8,
+    13
+   ],
+   "jigsaws": [],
+   "source": "level_one_ruins19",
+   "java_id": "philipsruins:level_one_ruins19"
+  },
+  "ruins__level_one_ruins2": {
+   "size": [
+    9,
+    5,
+    9
+   ],
+   "jigsaws": [],
+   "source": "level_one_ruins2",
+   "java_id": "philipsruins:level_one_ruins2"
+  },
+  "ruins__level_one_ruins20": {
+   "size": [
+    15,
+    6,
+    14
+   ],
+   "jigsaws": [],
+   "source": "level_one_ruins20",
+   "java_id": "philipsruins:level_one_ruins20"
+  },
+  "ruins__level_one_ruins21": {
+   "size": [
+    9,
+    7,
+    10
+   ],
+   "jigsaws": [],
+   "source": "level_one_ruins21",
+   "java_id": "philipsruins:level_one_ruins21"
+  },
+  "ruins__level_one_ruins22": {
+   "size": [
+    10,
+    8,
+    13
+   ],
+   "jigsaws": [],
+   "source": "level_one_ruins22",
+   "java_id": "philipsruins:level_one_ruins22"
+  },
+  "ruins__level_one_ruins3": {
+   "size": [
+    9,
+    5,
+    9
+   ],
+   "jigsaws": [],
+   "source": "level_one_ruins3",
+   "java_id": "philipsruins:level_one_ruins3"
+  },
+  "ruins__level_one_ruins4": {
+   "size": [
+    11,
+    7,
+    11
+   ],
+   "jigsaws": [],
+   "source": "level_one_ruins4",
+   "java_id": "philipsruins:level_one_ruins4"
+  },
+  "ruins__level_one_ruins5": {
+   "size": [
+    7,
+    3,
+    7
+   ],
+   "jigsaws": [],
+   "source": "level_one_ruins5",
+   "java_id": "philipsruins:level_one_ruins5"
+  },
+  "ruins__level_one_ruins6": {
+   "size": [
+    8,
+    6,
+    7
+   ],
+   "jigsaws": [],
+   "source": "level_one_ruins6",
+   "java_id": "philipsruins:level_one_ruins6"
+  },
+  "ruins__level_one_ruins7": {
+   "size": [
+    9,
+    8,
+    9
+   ],
+   "jigsaws": [],
+   "source": "level_one_ruins7",
+   "java_id": "philipsruins:level_one_ruins7"
+  },
+  "ruins__level_one_ruins8": {
+   "size": [
+    14,
+    7,
+    13
+   ],
+   "jigsaws": [],
+   "source": "level_one_ruins8",
+   "java_id": "philipsruins:level_one_ruins8"
+  },
+  "ruins__level_one_ruins9": {
+   "size": [
+    9,
+    8,
+    10
+   ],
+   "jigsaws": [],
+   "source": "level_one_ruins9",
+   "java_id": "philipsruins:level_one_ruins9"
+  },
+  "ruins__level_ruin_three10": {
+   "size": [
+    13,
+    12,
+    12
+   ],
+   "jigsaws": [],
+   "source": "level_ruin_three10",
+   "java_id": "philipsruins:level_ruin_three10"
+  },
+  "ruins__level_ruin_three5": {
+   "size": [
+    21,
+    14,
+    20
+   ],
+   "jigsaws": [],
+   "source": "level_ruin_three5",
+   "java_id": "philipsruins:level_ruin_three5"
+  },
+  "ruins__level_ruin_three6": {
+   "size": [
+    17,
+    18,
+    21
+   ],
+   "jigsaws": [],
+   "source": "level_ruin_three6",
+   "java_id": "philipsruins:level_ruin_three6"
+  },
+  "ruins__level_ruin_three7": {
+   "size": [
+    13,
+    9,
+    17
+   ],
+   "jigsaws": [],
+   "source": "level_ruin_three7",
+   "java_id": "philipsruins:level_ruin_three7"
+  },
+  "ruins__level_ruin_three8": {
+   "size": [
+    14,
+    9,
+    21
+   ],
+   "jigsaws": [],
+   "source": "level_ruin_three8",
+   "java_id": "philipsruins:level_ruin_three8"
+  },
+  "ruins__level_ruin_three9": {
+   "size": [
+    15,
+    14,
+    19
+   ],
+   "jigsaws": [],
+   "source": "level_ruin_three9",
+   "java_id": "philipsruins:level_ruin_three9"
+  },
+  "ruins__level_three_ruins1": {
+   "size": [
+    22,
+    16,
+    24
+   ],
+   "jigsaws": [],
+   "source": "level_three_ruins1",
+   "java_id": "philipsruins:level_three_ruins1"
+  },
+  "ruins__level_three_ruins2": {
+   "size": [
+    20,
+    22,
+    25
+   ],
+   "jigsaws": [],
+   "source": "level_three_ruins2",
+   "java_id": "philipsruins:level_three_ruins2"
+  },
+  "ruins__level_three_ruins3": {
+   "size": [
+    15,
+    12,
+    26
+   ],
+   "jigsaws": [],
+   "source": "level_three_ruins3",
+   "java_id": "philipsruins:level_three_ruins3"
+  },
+  "ruins__level_three_ruins4": {
+   "size": [
+    17,
+    28,
+    17
+   ],
+   "jigsaws": [],
+   "source": "level_three_ruins4",
+   "java_id": "philipsruins:level_three_ruins4"
+  },
+  "ruins__level_two_ruins1": {
+   "size": [
+    9,
+    5,
+    9
+   ],
+   "jigsaws": [],
+   "source": "level_two_ruins1",
+   "java_id": "philipsruins:level_two_ruins1"
+  },
+  "ruins__level_two_ruins2": {
+   "size": [
+    11,
+    12,
+    10
+   ],
+   "jigsaws": [],
+   "source": "level_two_ruins2",
+   "java_id": "philipsruins:level_two_ruins2"
+  },
+  "ruins__level_two_ruins3": {
+   "size": [
+    12,
+    11,
+    13
+   ],
+   "jigsaws": [],
+   "source": "level_two_ruins3",
+   "java_id": "philipsruins:level_two_ruins3"
+  },
+  "ruins__level_two_ruins4": {
+   "size": [
+    13,
+    6,
+    14
+   ],
+   "jigsaws": [],
+   "source": "level_two_ruins4",
+   "java_id": "philipsruins:level_two_ruins4"
+  },
+  "ruins__level_two_ruins5": {
+   "size": [
+    13,
+    7,
+    13
+   ],
+   "jigsaws": [],
+   "source": "level_two_ruins5",
+   "java_id": "philipsruins:level_two_ruins5"
+  },
+  "ruins__level_two_ruins6": {
+   "size": [
+    6,
+    4,
+    9
+   ],
+   "jigsaws": [],
+   "source": "level_two_ruins6",
+   "java_id": "philipsruins:level_two_ruins6"
+  },
+  "ruins__lost_desert_ruin1": {
+   "size": [
+    8,
+    6,
+    6
+   ],
+   "jigsaws": [],
+   "source": "lost_desert_ruin1",
+   "java_id": "philipsruins:lost_desert_ruin1"
+  },
+  "ruins__lost_prison1": {
+   "size": [
+    31,
+    14,
+    29
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      6,
+      2,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:prison_pool1",
+     "target": "minecraft:prison_pool1",
+     "pool": "philipsruins:lost_soul_dungeon/side_pool4",
+     "joint": "rollable"
+    }
+   ],
+   "source": "lost_prison1",
+   "java_id": "philipsruins:lost_prison1"
+  },
+  "ruins__lost_ruins": {
+   "size": [
+    7,
+    5,
+    6
+   ],
+   "jigsaws": [],
+   "source": "lost_ruins",
+   "java_id": "philipsruins:lost_ruins"
+  },
+  "ruins__lost_soul_city_part1": {
+   "size": [
+    37,
+    31,
+    30
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      15
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:part1",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "lost_soul_city_part1",
+   "java_id": "philipsruins:lost_soul_city_part1"
+  },
+  "ruins__lost_soul_city_part2": {
+   "size": [
+    30,
+    31,
+    27
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      15,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "philipsruins:part2",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      29,
+      1,
+      16
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:part3",
+     "pool": "philipsruins:lost_soul_city/lost_soul_city_part3",
+     "joint": "rollable"
+    }
+   ],
+   "source": "lost_soul_city_part2",
+   "java_id": "philipsruins:lost_soul_city_part2"
+  },
+  "ruins__lost_soul_city_part3": {
+   "size": [
+    37,
+    31,
+    27
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      16
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:part3",
+     "target": "minecraft:empty",
+     "pool": "philipsruins:lost_soul_city/lost_soul_city_part3",
+     "joint": "rollable"
+    }
+   ],
+   "source": "lost_soul_city_part3",
+   "java_id": "philipsruins:lost_soul_city_part3"
+  },
+  "ruins__lost_soul_city_part4": {
+   "size": [
+    16,
+    31,
+    47
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      15,
+      1,
+      15
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:part4",
+     "target": "minecraft:part4",
+     "pool": "philipsruins:lost_soul_city/lost_soul_city_part4",
+     "joint": "rollable"
+    }
+   ],
+   "source": "lost_soul_city_part4",
+   "java_id": "philipsruins:lost_soul_city_part4"
+  },
+  "ruins__lost_soul_city_start": {
+   "size": [
+    30,
+    31,
+    30
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      15
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:part4",
+     "target": "minecraft:part4",
+     "pool": "philipsruins:lost_soul_city/lost_soul_city_part4",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      15,
+      1,
+      29
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:empty",
+     "target": "philipsruins:part2",
+     "pool": "philipsruins:lost_soul_city/lost_soul_city_part2",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      29,
+      1,
+      15
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:empty",
+     "target": "minecraft:part1",
+     "pool": "philipsruins:lost_soul_city/lost_soul_city_part1",
+     "joint": "rollable"
+    }
+   ],
+   "source": "lost_soul_city_start",
+   "java_id": "philipsruins:lost_soul_city_start"
+  },
+  "ruins__lost_soul_start_pool": {
+   "size": [
+    15,
+    10,
+    16
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      8
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:walkway",
+     "target": "minecraft:walkway",
+     "pool": "philipsruins:lost_soul_dungeon/side_pool",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      6,
+      1,
+      15
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:prison_pool1",
+     "target": "minecraft:prison_pool1",
+     "pool": "philipsruins:lost_soul_dungeon/side_pool4",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      14,
+      1,
+      8
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:long_walkway",
+     "target": "minecraft:long_walkway",
+     "pool": "philipsruins:lost_soul_dungeon/side_pool2",
+     "joint": "rollable"
+    }
+   ],
+   "source": "lost_soul_start_pool",
+   "java_id": "philipsruins:lost_soul_start_pool"
+  },
+  "ruins__lost_soul_walkway1": {
+   "size": [
+    32,
+    8,
+    9
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      31,
+      1,
+      5
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:walkway",
+     "target": "minecraft:walkway",
+     "pool": "philipsruins:lost_soul_dungeon/side_pool",
+     "joint": "rollable"
+    }
+   ],
+   "source": "lost_soul_walkway1",
+   "java_id": "philipsruins:lost_soul_walkway1"
+  },
+  "ruins__mod_structures__desert_ruin4": {
+   "size": [
+    20,
+    11,
+    19
+   ],
+   "jigsaws": [],
+   "source": "mod_structures/desert_ruin4",
+   "java_id": "philipsruins:mod_structures/desert_ruin4"
+  },
+  "ruins__mod_structures__desert_ruin5": {
+   "size": [
+    9,
+    7,
+    8
+   ],
+   "jigsaws": [],
+   "source": "mod_structures/desert_ruin5",
+   "java_id": "philipsruins:mod_structures/desert_ruin5"
+  },
+  "ruins__mod_structures__desert_ruin6": {
+   "size": [
+    18,
+    6,
+    16
+   ],
+   "jigsaws": [],
+   "source": "mod_structures/desert_ruin6",
+   "java_id": "philipsruins:mod_structures/desert_ruin6"
+  },
+  "ruins__mod_structures__desert_ruin7": {
+   "size": [
+    27,
+    10,
+    24
+   ],
+   "jigsaws": [],
+   "source": "mod_structures/desert_ruin7",
+   "java_id": "philipsruins:mod_structures/desert_ruin7"
+  },
+  "ruins__mod_structures__desert_ruin8": {
+   "size": [
+    11,
+    7,
+    14
+   ],
+   "jigsaws": [],
+   "source": "mod_structures/desert_ruin8",
+   "java_id": "philipsruins:mod_structures/desert_ruin8"
+  },
+  "ruins__mod_structures__desert_ruin9": {
+   "size": [
+    10,
+    4,
+    10
+   ],
+   "jigsaws": [],
+   "source": "mod_structures/desert_ruin9",
+   "java_id": "philipsruins:mod_structures/desert_ruin9"
+  },
+  "ruins__nether_dungeon_room1": {
+   "size": [
+    13,
+    8,
+    14
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      6
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:room2",
+     "target": "minecraft:room2",
+     "pool": "philipsruins:nether_dungeon/nether_dungeon_room1",
+     "joint": "rollable"
+    }
+   ],
+   "source": "nether_dungeon_room1",
+   "java_id": "philipsruins:nether_dungeon_room1"
+  },
+  "ruins__nether_dungeon_room2": {
+   "size": [
+    19,
+    9,
+    16
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      9,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:room1",
+     "target": "minecraft:room1",
+     "pool": "philipsruins:nether_dungeon/nether_dungeon_room2",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      1,
+      15
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:room3",
+     "target": "minecraft:room3",
+     "pool": "philipsruins:nether_dungeon/nether_dungeon_room3",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      18,
+      1,
+      7
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:room2",
+     "target": "minecraft:room2",
+     "pool": "philipsruins:nether_dungeon/nether_dungeon_room1",
+     "joint": "rollable"
+    }
+   ],
+   "source": "nether_dungeon_room2",
+   "java_id": "philipsruins:nether_dungeon_room2"
+  },
+  "ruins__nether_dungeon_room3": {
+   "size": [
+    20,
+    12,
+    19
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      7,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:room3",
+     "target": "minecraft:room3",
+     "pool": "philipsruins:nether_dungeon/nether_dungeon_room3",
+     "joint": "rollable"
+    }
+   ],
+   "source": "nether_dungeon_room3",
+   "java_id": "philipsruins:nether_dungeon_room3"
+  },
+  "ruins__nether_dungeon_room4": {
+   "size": [
+    11,
+    9,
+    13
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      6,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:room5",
+     "target": "minecraft:room5",
+     "pool": "philipsruins:nether_dungeon/nether_dungeon_room5",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      6,
+      1,
+      12
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:room4",
+     "target": "minecraft:room4",
+     "pool": "philipsruins:nether_dungeon/nether_dungeon_room4",
+     "joint": "rollable"
+    }
+   ],
+   "source": "nether_dungeon_room4",
+   "java_id": "philipsruins:nether_dungeon_room4"
+  },
+  "ruins__nether_dungeon_room6": {
+   "size": [
+    26,
+    8,
+    22
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      25,
+      1,
+      14
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:room6",
+     "target": "minecraft:room6",
+     "pool": "philipsruins:nether_dungeon/nether_dungeon_room6",
+     "joint": "rollable"
+    }
+   ],
+   "source": "nether_dungeon_room6",
+   "java_id": "philipsruins:nether_dungeon_room6"
+  },
+  "ruins__nether_dungeon_ruin1": {
+   "size": [
+    16,
+    7,
+    21
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      6,
+      1,
+      20
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:room5",
+     "target": "minecraft:room5",
+     "pool": "philipsruins:nether_dungeon/nether_dungeon_room5",
+     "joint": "rollable"
+    }
+   ],
+   "source": "nether_dungeon_ruin1",
+   "java_id": "philipsruins:nether_dungeon_ruin1"
+  },
+  "ruins__nether_ruin1": {
+   "size": [
+    15,
+    12,
+    30
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      9,
+      1,
+      29
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:room1",
+     "target": "minecraft:room1",
+     "pool": "philipsruins:nether_ruins/nether_ruin1",
+     "joint": "rollable"
+    }
+   ],
+   "source": "nether_ruin1",
+   "java_id": "philipsruins:nether_ruin1"
+  },
+  "ruins__nether_ruin2": {
+   "size": [
+    25,
+    13,
+    13
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      24,
+      2,
+      5
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:room2",
+     "target": "minecraft:room2",
+     "pool": "philipsruins:nether_ruins/nether_ruin2",
+     "joint": "rollable"
+    }
+   ],
+   "source": "nether_ruin2",
+   "java_id": "philipsruins:nether_ruin2"
+  },
+  "ruins__nether_ruin3": {
+   "size": [
+    24,
+    13,
+    12
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      2,
+      6
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:room3",
+     "target": "minecraft:room3",
+     "pool": "philipsruins:nether_ruins/nether_ruin3",
+     "joint": "rollable"
+    }
+   ],
+   "source": "nether_ruin3",
+   "java_id": "philipsruins:nether_ruin3"
+  },
+  "ruins__nether_ruin4": {
+   "size": [
+    13,
+    13,
+    23
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      6,
+      2,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:room4",
+     "target": "minecraft:room4",
+     "pool": "philipsruins:nether_ruins/nether_ruin4",
+     "joint": "rollable"
+    }
+   ],
+   "source": "nether_ruin4",
+   "java_id": "philipsruins:nether_ruin4"
+  },
+  "ruins__nether_structures__lava_ruin1": {
+   "size": [
+    12,
+    6,
+    9
+   ],
+   "jigsaws": [],
+   "source": "nether_structures/lava_ruin1",
+   "java_id": "philipsruins:nether_structures/lava_ruin1"
+  },
+  "ruins__nether_structures__lava_ruin2": {
+   "size": [
+    18,
+    9,
+    13
+   ],
+   "jigsaws": [],
+   "source": "nether_structures/lava_ruin2",
+   "java_id": "philipsruins:nether_structures/lava_ruin2"
+  },
+  "ruins__nether_structures__lava_ruin3": {
+   "size": [
+    15,
+    7,
+    12
+   ],
+   "jigsaws": [],
+   "source": "nether_structures/lava_ruin3",
+   "java_id": "philipsruins:nether_structures/lava_ruin3"
+  },
+  "ruins__obsidian_structure1": {
+   "size": [
+    7,
+    13,
+    7
+   ],
+   "jigsaws": [],
+   "source": "obsidian_structure1",
+   "java_id": "philipsruins:obsidian_structure1"
+  },
+  "ruins__obsidian_structure_ghast1": {
+   "size": [
+    8,
+    16,
+    9
+   ],
+   "jigsaws": [],
+   "source": "obsidian_structure_ghast1",
+   "java_id": "philipsruins:obsidian_structure_ghast1"
+  },
+  "ruins__ocean_fortress_main": {
+   "size": [
+    24,
+    21,
+    43
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      19
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:part1",
+     "target": "minecraft:part1",
+     "pool": "philipsruins:ocean_fortress/ocean_fortress_part1",
+     "joint": "rollable"
+    }
+   ],
+   "source": "ocean_fortress_main",
+   "java_id": "philipsruins:ocean_fortress_main"
+  },
+  "ruins__ocean_fortress_part1": {
+   "size": [
+    31,
+    21,
+    43
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      19,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:part2",
+     "target": "minecraft:part2",
+     "pool": "philipsruins:ocean_fortress/ocean_fortress_part2",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      30,
+      1,
+      19
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:part1",
+     "target": "minecraft:part1",
+     "pool": "philipsruins:ocean_fortress/ocean_fortress_part1",
+     "joint": "rollable"
+    }
+   ],
+   "source": "ocean_fortress_part1",
+   "java_id": "philipsruins:ocean_fortress_part1"
+  },
+  "ruins__ocean_fortress_part2": {
+   "size": [
+    31,
+    21,
+    17
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      19,
+      1,
+      16
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:part2",
+     "target": "minecraft:part2",
+     "pool": "philipsruins:ocean_fortress/ocean_fortress_part2",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      30,
+      1,
+      14
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:part3",
+     "target": "minecraft:part3",
+     "pool": "philipsruins:ocean_fortress/ocean_fortress_part3",
+     "joint": "rollable"
+    }
+   ],
+   "source": "ocean_fortress_part2",
+   "java_id": "philipsruins:ocean_fortress_part2"
+  },
+  "ruins__ocean_fortress_part3": {
+   "size": [
+    24,
+    21,
+    17
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      14
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:part3",
+     "target": "minecraft:part3",
+     "pool": "philipsruins:ocean_fortress/ocean_fortress_part3",
+     "joint": "rollable"
+    }
+   ],
+   "source": "ocean_fortress_part3",
+   "java_id": "philipsruins:ocean_fortress_part3"
+  },
+  "ruins__ocean_ruin1": {
+   "size": [
+    15,
+    10,
+    13
+   ],
+   "jigsaws": [],
+   "source": "ocean_ruin1",
+   "java_id": "philipsruins:ocean_ruin1"
+  },
+  "ruins__ocean_ruin10": {
+   "size": [
+    10,
+    5,
+    13
+   ],
+   "jigsaws": [],
+   "source": "ocean_ruin10",
+   "java_id": "philipsruins:ocean_ruin10"
+  },
+  "ruins__ocean_ruin11": {
+   "size": [
+    9,
+    3,
+    10
+   ],
+   "jigsaws": [],
+   "source": "ocean_ruin11",
+   "java_id": "philipsruins:ocean_ruin11"
+  },
+  "ruins__ocean_ruin2": {
+   "size": [
+    8,
+    7,
+    7
+   ],
+   "jigsaws": [],
+   "source": "ocean_ruin2",
+   "java_id": "philipsruins:ocean_ruin2"
+  },
+  "ruins__ocean_ruin3": {
+   "size": [
+    14,
+    10,
+    16
+   ],
+   "jigsaws": [],
+   "source": "ocean_ruin3",
+   "java_id": "philipsruins:ocean_ruin3"
+  },
+  "ruins__ocean_ruin4": {
+   "size": [
+    12,
+    9,
+    12
+   ],
+   "jigsaws": [],
+   "source": "ocean_ruin4",
+   "java_id": "philipsruins:ocean_ruin4"
+  },
+  "ruins__ocean_ruin5": {
+   "size": [
+    16,
+    16,
+    18
+   ],
+   "jigsaws": [],
+   "source": "ocean_ruin5",
+   "java_id": "philipsruins:ocean_ruin5"
+  },
+  "ruins__ocean_ruin6": {
+   "size": [
+    9,
+    9,
+    9
+   ],
+   "jigsaws": [],
+   "source": "ocean_ruin6",
+   "java_id": "philipsruins:ocean_ruin6"
+  },
+  "ruins__ocean_ruin7": {
+   "size": [
+    11,
+    8,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ocean_ruin7",
+   "java_id": "philipsruins:ocean_ruin7"
+  },
+  "ruins__ocean_ruin8": {
+   "size": [
+    10,
+    4,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ocean_ruin8",
+   "java_id": "philipsruins:ocean_ruin8"
+  },
+  "ruins__ocean_ruin9": {
+   "size": [
+    11,
+    7,
+    13
+   ],
+   "jigsaws": [],
+   "source": "ocean_ruin9",
+   "java_id": "philipsruins:ocean_ruin9"
+  },
+  "ruins__pumpkin_ruin_eight": {
+   "size": [
+    8,
+    5,
+    8
+   ],
+   "jigsaws": [],
+   "source": "pumpkin_ruin_eight",
+   "java_id": "philipsruins:pumpkin_ruin_eight"
+  },
+  "ruins__pumpkin_ruin_five": {
+   "size": [
+    10,
+    4,
+    9
+   ],
+   "jigsaws": [],
+   "source": "pumpkin_ruin_five",
+   "java_id": "philipsruins:pumpkin_ruin_five"
+  },
+  "ruins__pumpkin_ruin_four": {
+   "size": [
+    11,
+    10,
+    12
+   ],
+   "jigsaws": [],
+   "source": "pumpkin_ruin_four",
+   "java_id": "philipsruins:pumpkin_ruin_four"
+  },
+  "ruins__pumpkin_ruin_nine": {
+   "size": [
+    8,
+    3,
+    8
+   ],
+   "jigsaws": [],
+   "source": "pumpkin_ruin_nine",
+   "java_id": "philipsruins:pumpkin_ruin_nine"
+  },
+  "ruins__pumpkin_ruin_one": {
+   "size": [
+    11,
+    4,
+    11
+   ],
+   "jigsaws": [],
+   "source": "pumpkin_ruin_one",
+   "java_id": "philipsruins:pumpkin_ruin_one"
+  },
+  "ruins__pumpkin_ruin_seven": {
+   "size": [
+    15,
+    5,
+    14
+   ],
+   "jigsaws": [],
+   "source": "pumpkin_ruin_seven",
+   "java_id": "philipsruins:pumpkin_ruin_seven"
+  },
+  "ruins__pumpkin_ruin_six": {
+   "size": [
+    5,
+    4,
+    6
+   ],
+   "jigsaws": [],
+   "source": "pumpkin_ruin_six",
+   "java_id": "philipsruins:pumpkin_ruin_six"
+  },
+  "ruins__pumpkin_ruin_ten": {
+   "size": [
+    12,
+    6,
+    13
+   ],
+   "jigsaws": [],
+   "source": "pumpkin_ruin_ten",
+   "java_id": "philipsruins:pumpkin_ruin_ten"
+  },
+  "ruins__pumpkin_ruin_three": {
+   "size": [
+    12,
+    9,
+    10
+   ],
+   "jigsaws": [],
+   "source": "pumpkin_ruin_three",
+   "java_id": "philipsruins:pumpkin_ruin_three"
+  },
+  "ruins__pumpkin_ruin_two": {
+   "size": [
+    14,
+    7,
+    17
+   ],
+   "jigsaws": [],
+   "source": "pumpkin_ruin_two",
+   "java_id": "philipsruins:pumpkin_ruin_two"
+  },
+  "ruins__rare_ruin": {
+   "size": [
+    19,
+    12,
+    20
+   ],
+   "jigsaws": [],
+   "source": "rare_ruin",
+   "java_id": "philipsruins:rare_ruin"
+  },
+  "ruins__room1_antiquus": {
+   "size": [
+    5,
+    27,
+    5
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      2,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:room2_antiquus",
+     "target": "minecraft:room2_antiquus",
+     "pool": "philipsruins:antiquus_crypta/room2_antiquus",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      4,
+      1,
+      1
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:room3_antiquus",
+     "target": "minecraft:room3_antiquus",
+     "pool": "philipsruins:antiquus_crypta/room3_antiquus",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      2,
+      26,
+      2
+     ],
+     "orientation": "up_east",
+     "name": "minecraft:room1_antiquus",
+     "target": "minecraft:room1_antiquus",
+     "pool": "philipsruins:antiquus_crypta/room1_antiquus",
+     "joint": "rollable"
+    }
+   ],
+   "source": "room1_antiquus",
+   "java_id": "philipsruins:room1_antiquus"
+  },
+  "ruins__room2_antiquus": {
+   "size": [
+    21,
+    7,
+    14
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      3,
+      1,
+      13
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:room2_antiquus",
+     "target": "minecraft:room2_antiquus",
+     "pool": "philipsruins:antiquus_crypta/room2_antiquus",
+     "joint": "rollable"
+    }
+   ],
+   "source": "room2_antiquus",
+   "java_id": "philipsruins:room2_antiquus"
+  },
+  "ruins__room3_antiquus": {
+   "size": [
+    20,
+    8,
+    20
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      1
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:room3_antiquus",
+     "target": "minecraft:room3_antiquus",
+     "pool": "philipsruins:antiquus_crypta/room3_antiquus",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      0,
+      1,
+      14
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:room4_antiquus",
+     "target": "minecraft:room4_antiquus",
+     "pool": "philipsruins:antiquus_crypta/room4_antiquus",
+     "joint": "rollable"
+    }
+   ],
+   "source": "room3_antiquus",
+   "java_id": "philipsruins:room3_antiquus"
+  },
+  "ruins__room4_antiquus": {
+   "size": [
+    19,
+    8,
+    14
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      18,
+      1,
+      9
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:room4_antiquus",
+     "target": "minecraft:room4_antiquus",
+     "pool": "philipsruins:antiquus_crypta/room4_antiquus",
+     "joint": "rollable"
+    }
+   ],
+   "source": "room4_antiquus",
+   "java_id": "philipsruins:room4_antiquus"
+  },
+  "ruins__ruin10": {
+   "size": [
+    6,
+    3,
+    6
+   ],
+   "jigsaws": [],
+   "source": "ruin10",
+   "java_id": "philipsruins:ruin10"
+  },
+  "ruins__ruin11": {
+   "size": [
+    17,
+    6,
+    16
+   ],
+   "jigsaws": [],
+   "source": "ruin11",
+   "java_id": "philipsruins:ruin11"
+  },
+  "ruins__ruin12": {
+   "size": [
+    14,
+    11,
+    16
+   ],
+   "jigsaws": [],
+   "source": "ruin12",
+   "java_id": "philipsruins:ruin12"
+  },
+  "ruins__ruin2": {
+   "size": [
+    6,
+    5,
+    7
+   ],
+   "jigsaws": [],
+   "source": "ruin2",
+   "java_id": "philipsruins:ruin2"
+  },
+  "ruins__ruin3": {
+   "size": [
+    6,
+    4,
+    7
+   ],
+   "jigsaws": [],
+   "source": "ruin3",
+   "java_id": "philipsruins:ruin3"
+  },
+  "ruins__ruin4": {
+   "size": [
+    10,
+    8,
+    11
+   ],
+   "jigsaws": [],
+   "source": "ruin4",
+   "java_id": "philipsruins:ruin4"
+  },
+  "ruins__ruin5": {
+   "size": [
+    9,
+    4,
+    8
+   ],
+   "jigsaws": [],
+   "source": "ruin5",
+   "java_id": "philipsruins:ruin5"
+  },
+  "ruins__ruin6": {
+   "size": [
+    14,
+    12,
+    11
+   ],
+   "jigsaws": [],
+   "source": "ruin6",
+   "java_id": "philipsruins:ruin6"
+  },
+  "ruins__ruin7": {
+   "size": [
+    8,
+    4,
+    7
+   ],
+   "jigsaws": [],
+   "source": "ruin7",
+   "java_id": "philipsruins:ruin7"
+  },
+  "ruins__ruin8": {
+   "size": [
+    10,
+    5,
+    10
+   ],
+   "jigsaws": [],
+   "source": "ruin8",
+   "java_id": "philipsruins:ruin8"
+  },
+  "ruins__ruin9": {
+   "size": [
+    11,
+    8,
+    12
+   ],
+   "jigsaws": [],
+   "source": "ruin9",
+   "java_id": "philipsruins:ruin9"
+  },
+  "ruins__ruin_grave1": {
+   "size": [
+    9,
+    4,
+    9
+   ],
+   "jigsaws": [],
+   "source": "ruin_grave1",
+   "java_id": "philipsruins:ruin_grave1"
+  },
+  "ruins__ruin_guardian_statue": {
+   "size": [
+    18,
+    18,
+    18
+   ],
+   "jigsaws": [],
+   "source": "ruin_guardian_statue",
+   "java_id": "philipsruins:ruin_guardian_statue"
+  },
+  "ruins__ruin_tomb_room1": {
+   "size": [
+    11,
+    12,
+    15
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      6,
+      7,
+      14
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:room1",
+     "target": "minecraft:room1",
+     "pool": "philipsruins:ruin_tomb/side_pool",
+     "joint": "rollable"
+    }
+   ],
+   "source": "ruin_tomb_room1",
+   "java_id": "philipsruins:ruin_tomb_room1"
+  },
+  "ruins__ruin_tomb_start": {
+   "size": [
+    9,
+    12,
+    12
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      4,
+      2,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:room1",
+     "target": "minecraft:room1",
+     "pool": "philipsruins:ruin_tomb/side_pool",
+     "joint": "rollable"
+    }
+   ],
+   "source": "ruin_tomb_start",
+   "java_id": "philipsruins:ruin_tomb_start"
+  },
+  "ruins__ruin_tower": {
+   "size": [
+    19,
+    21,
+    14
+   ],
+   "jigsaws": [],
+   "source": "ruin_tower",
+   "java_id": "philipsruins:ruin_tower"
+  },
+  "ruins__ruins_house_with_tree": {
+   "size": [
+    25,
+    12,
+    20
+   ],
+   "jigsaws": [],
+   "source": "ruins_house_with_tree",
+   "java_id": "philipsruins:ruins_house_with_tree"
+  },
+  "ruins__run_down_house_left_side": {
+   "size": [
+    11,
+    9,
+    11
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      2,
+      5
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:empty",
+     "target": "structure_tutorial:right_side",
+     "pool": "structure_tutorial:run_down_house/side_pool",
+     "joint": "rollable"
+    }
+   ],
+   "source": "run_down_house_left_side",
+   "java_id": "philipsruins:run_down_house_left_side"
+  },
+  "ruins__run_down_house_right_side": {
+   "size": [
+    10,
+    9,
+    11
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      9,
+      2,
+      5
+     ],
+     "orientation": "east_up",
+     "name": "structure_tutorial:right_side",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "run_down_house_right_side",
+   "java_id": "philipsruins:run_down_house_right_side"
+  },
+  "ruins__run_down_house_right_side_golden": {
+   "size": [
+    10,
+    9,
+    11
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      9,
+      2,
+      5
+     ],
+     "orientation": "east_up",
+     "name": "structure_tutorial:right_side",
+     "target": "minecraft:empty",
+     "pool": "minecraft:empty",
+     "joint": "rollable"
+    }
+   ],
+   "source": "run_down_house_right_side_golden",
+   "java_id": "philipsruins:run_down_house_right_side_golden"
+  },
+  "ruins__sand_house": {
+   "size": [
+    6,
+    6,
+    7
+   ],
+   "jigsaws": [],
+   "source": "sand_house",
+   "java_id": "philipsruins:sand_house"
+  },
+  "ruins__sculk_dungeon_room1": {
+   "size": [
+    20,
+    15,
+    32
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      16
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:room1",
+     "target": "minecraft:room1",
+     "pool": "philipsruins:sculk_dungeon/sculk_dungeon_room1",
+     "joint": "rollable"
+    }
+   ],
+   "source": "sculk_dungeon_room1",
+   "java_id": "philipsruins:sculk_dungeon_room1"
+  },
+  "ruins__sculk_dungeon_room2": {
+   "size": [
+    26,
+    11,
+    25
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      13,
+      1,
+      24
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:room2",
+     "target": "minecraft:room2",
+     "pool": "philipsruins:sculk_dungeon/sculk_dungeon_room2",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      25,
+      1,
+      10
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:room3",
+     "target": "minecraft:room3",
+     "pool": "philipsruins:sculk_dungeon/sculk_dungeon_room3",
+     "joint": "rollable"
+    }
+   ],
+   "source": "sculk_dungeon_room2",
+   "java_id": "philipsruins:sculk_dungeon_room2"
+  },
+  "ruins__sculk_dungeon_room3": {
+   "size": [
+    20,
+    12,
+    25
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      10
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:room3",
+     "target": "minecraft:room3",
+     "pool": "philipsruins:sculk_dungeon/sculk_dungeon_room3",
+     "joint": "rollable"
+    }
+   ],
+   "source": "sculk_dungeon_room3",
+   "java_id": "philipsruins:sculk_dungeon_room3"
+  },
+  "ruins__sculk_dungeon_start": {
+   "size": [
+    26,
+    8,
+    36
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      13,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:room2",
+     "target": "minecraft:room2",
+     "pool": "philipsruins:sculk_dungeon/sculk_dungeon_room2",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      25,
+      1,
+      16
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:room1",
+     "target": "minecraft:room1",
+     "pool": "philipsruins:sculk_dungeon/sculk_dungeon_room1",
+     "joint": "rollable"
+    }
+   ],
+   "source": "sculk_dungeon_start",
+   "java_id": "philipsruins:sculk_dungeon_start"
+  },
+  "ruins__sealedruinedghaststatue1": {
+   "size": [
+    7,
+    8,
+    7
+   ],
+   "jigsaws": [],
+   "source": "sealedruinedghaststatue1",
+   "java_id": "philipsruins:sealedruinedghaststatue1"
+  },
+  "ruins__sealedruinedghaststatue2": {
+   "size": [
+    5,
+    5,
+    5
+   ],
+   "jigsaws": [],
+   "source": "sealedruinedghaststatue2",
+   "java_id": "philipsruins:sealedruinedghaststatue2"
+  },
+  "ruins__sealedruinedghaststatue3": {
+   "size": [
+    5,
+    8,
+    7
+   ],
+   "jigsaws": [],
+   "source": "sealedruinedghaststatue3",
+   "java_id": "philipsruins:sealedruinedghaststatue3"
+  },
+  "ruins__ship": {
+   "size": [
+    13,
+    14,
+    29
+   ],
+   "jigsaws": [],
+   "source": "ship",
+   "java_id": "philipsruins:ship"
+  },
+  "ruins__sky_fan": {
+   "size": [
+    27,
+    12,
+    27
+   ],
+   "jigsaws": [],
+   "source": "sky_fan",
+   "java_id": "philipsruins:sky_fan"
+  },
+  "ruins__small_ruin3": {
+   "size": [
+    9,
+    7,
+    12
+   ],
+   "jigsaws": [],
+   "source": "small_ruin3",
+   "java_id": "philipsruins:small_ruin3"
+  },
+  "ruins__small_ruin4": {
+   "size": [
+    6,
+    4,
+    7
+   ],
+   "jigsaws": [],
+   "source": "small_ruin4",
+   "java_id": "philipsruins:small_ruin4"
+  },
+  "ruins__small_ruin5": {
+   "size": [
+    5,
+    5,
+    6
+   ],
+   "jigsaws": [],
+   "source": "small_ruin5",
+   "java_id": "philipsruins:small_ruin5"
+  },
+  "ruins__small_ruin6": {
+   "size": [
+    6,
+    6,
+    6
+   ],
+   "jigsaws": [],
+   "source": "small_ruin6",
+   "java_id": "philipsruins:small_ruin6"
+  },
+  "ruins__small_ruin_stone_ruin_house": {
+   "size": [
+    7,
+    6,
+    9
+   ],
+   "jigsaws": [],
+   "source": "small_ruin_stone_ruin_house",
+   "java_id": "philipsruins:small_ruin_stone_ruin_house"
+  },
+  "ruins__start_nether_dungeon": {
+   "size": [
+    16,
+    10,
+    17
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      8
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:room6",
+     "target": "minecraft:room6",
+     "pool": "philipsruins:nether_dungeon/nether_dungeon_room6",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      8,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:room4",
+     "target": "minecraft:room4",
+     "pool": "philipsruins:nether_dungeon/nether_dungeon_room4",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      8,
+      1,
+      16
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:room1",
+     "target": "minecraft:room1",
+     "pool": "philipsruins:nether_dungeon/nether_dungeon_room2",
+     "joint": "rollable"
+    }
+   ],
+   "source": "start_nether_dungeon",
+   "java_id": "philipsruins:start_nether_dungeon"
+  },
+  "ruins__start_nether_ruin": {
+   "size": [
+    21,
+    16,
+    21
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      10,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:room1",
+     "target": "minecraft:room1",
+     "pool": "philipsruins:nether_ruins/nether_ruin1",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      0,
+      2,
+      10
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:room2",
+     "target": "minecraft:room2",
+     "pool": "philipsruins:nether_ruins/nether_ruin2",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      9,
+      2,
+      20
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:room4",
+     "target": "minecraft:room4",
+     "pool": "philipsruins:nether_ruins/nether_ruin4",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      20,
+      2,
+      10
+     ],
+     "orientation": "east_up",
+     "name": "minecraft:room3",
+     "target": "minecraft:room3",
+     "pool": "philipsruins:nether_ruins/nether_ruin3",
+     "joint": "rollable"
+    }
+   ],
+   "source": "start_nether_ruin",
+   "java_id": "philipsruins:start_nether_ruin"
+  },
+  "ruins__the_ruin_temple": {
+   "size": [
+    28,
+    17,
+    20
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      16,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:pyramid_room",
+     "target": "minecraft:pyramid_room",
+     "pool": "philipsruins:the_ruin_temple/ancient_pyramid1_side_pool",
+     "joint": "rollable"
+    }
+   ],
+   "source": "the_ruin_temple",
+   "java_id": "philipsruins:the_ruin_temple"
+  },
+  "ruins__walkway2": {
+   "size": [
+    30,
+    7,
+    9
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      0,
+      1,
+      5
+     ],
+     "orientation": "west_up",
+     "name": "minecraft:long_walkway",
+     "target": "minecraft:long_walkway",
+     "pool": "philipsruins:lost_soul_dungeon/side_pool2",
+     "joint": "rollable"
+    },
+    {
+     "pos": [
+      19,
+      1,
+      0
+     ],
+     "orientation": "north_up",
+     "name": "minecraft:walkway_wall",
+     "target": "minecraft:walkway_wall",
+     "pool": "philipsruins:lost_soul_dungeon/side_pool3",
+     "joint": "rollable"
+    }
+   ],
+   "source": "walkway2",
+   "java_id": "philipsruins:walkway2"
+  },
+  "ruins__walkway3": {
+   "size": [
+    31,
+    12,
+    30
+   ],
+   "jigsaws": [
+    {
+     "pos": [
+      9,
+      1,
+      29
+     ],
+     "orientation": "south_up",
+     "name": "minecraft:walkway_wall",
+     "target": "minecraft:walkway_wall",
+     "pool": "philipsruins:lost_soul_dungeon/side_pool3",
+     "joint": "rollable"
+    }
+   ],
+   "source": "walkway3",
+   "java_id": "philipsruins:walkway3"
+  }
+ },
+ "skipped_modded": [],
+ "report": {
+  "substituted": {
+   "philipsruins:red_sand_stone_brick": 1734,
+   "philipsruins:sand_stone_brick": 2857,
+   "philipsruins:fractured_bone_bricks": 174,
+   "philipsruins:cracked_bone": 121,
+   "philipsruins:bone_bricks": 5524,
+   "philipsruins:bone_chunk_block": 283,
+   "philipsruins:bone_bricks_slab": 529,
+   "philipsruins:chiseled_bone_bricks": 46,
+   "philipsruins:bone_bricks_wall": 364,
+   "philipsruins:bone_bricks_stairs": 816,
+   "philips_ruins:dungeonblock": 2,
+   "philipsruins:obsidian_brick": 18506,
+   "philipsruins:obsidian_brick_stairs": 281,
+   "philipsruins:obsidian_brick_slab": 193,
+   "philipsruins:obsidian_brick_wall": 50,
+   "philipsruins:sandstone_tiles": 197,
+   "philipsruins:dark_brick": 2689,
+   "philipsruins:sculk_bone_block": 110,
+   "philipsruins:sculk_bone_bricks": 1557,
+   "philipsruins:sculk_bone_bricks_stairs": 96,
+   "philipsruins:sculk_bone_bricks_slab": 144,
+   "philipsruins:infested_sculk_bone_bricks": 7
+  },
+  "unknown_blocks": {},
+  "block_entities_dropped": {
+   "minecraft:skull": 53,
+   "minecraft:furnace": 11,
+   "minecraft:blast_furnace": 8,
+   "minecraft:campfire": 4,
+   "minecraft:brewing_stand": 4,
+   "minecraft:dispenser": 11,
+   "minecraft:enchanting_table": 2,
+   "minecraft:sign": 21,
+   "minecraft:lectern": 1,
+   "minecraft:bell": 3,
+   "minecraft:jukebox": 2,
+   "minecraft:ender_chest": 1,
+   "minecraft:sculk_sensor": 20,
+   "minecraft:sculk_catalyst": 14,
+   "minecraft:sculk_shrieker": 3
+  },
+  "entities_dropped": {
+   "minecraft:cave_spider": 4,
+   "minecraft:husk": 23,
+   "minecraft:pillager": 1,
+   "minecraft:skeleton": 5,
+   "minecraft:painting": 14,
+   "minecraft:shulker": 10,
+   "minecraft:armor_stand": 1,
+   "minecraft:end_crystal": 1,
+   "minecraft:silverfish": 1,
+   "minecraft:wither_skeleton": 30,
+   "minecraft:magma_cube": 17,
+   "minecraft:zombie": 3,
+   "minecraft:zombie_villager": 1,
+   "minecraft:evoker": 5,
+   "minecraft:item_frame": 1
+  }
+ }
+}

@@ -1,0 +1,1362 @@
+{
+ "pools": {
+  "ctov:pillager_outpost/badlands/base_plates": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/badlands/feature_plates": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/badlands/features": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     6,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:pillager_outpost/badlands/tower": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/beach/base_plates": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/beach/feature_plates": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/beach/features": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     6,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:pillager_outpost/beach/tower": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/dark_forest/base_plates": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/dark_forest/feature_plates": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/dark_forest/features": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     6,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:pillager_outpost/dark_forest/tower": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/desert/base_plates": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/desert/feature_plates": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/desert/features": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     6,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:pillager_outpost/desert/tower": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/jungle/base_plates": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/jungle/feature_plates": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/jungle/features": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     6,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:pillager_outpost/jungle/tower": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/mountain/base_plates": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/mountain/feature_plates": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/mountain/features": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     6,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:pillager_outpost/mountain/tower": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/plains/base_plates": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/plains/feature_plates": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/plains/features": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     6,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:pillager_outpost/plains/tower": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/savanna/base_plates": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/savanna/feature_plates": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/savanna/features": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     6,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:pillager_outpost/savanna/tower": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/snowy/base_plates": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/snowy/feature_plates": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/snowy/features": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     6,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:pillager_outpost/snowy/tower": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/swamp/base_plates": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/swamp/feature_plates": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/swamp/features": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     6,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:pillager_outpost/swamp/tower": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/taiga/base_plates": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/taiga/feature_plates": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:pillager_outpost/taiga/features": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     6,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:pillager_outpost/taiga/tower": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/beach/deco": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     30,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/beach/house": {
+   "fallback": "ctov:village/beach/deco",
+   "elements": []
+  },
+  "ctov:village/beach/roads": {
+   "fallback": "ctov:village/beach/terminator",
+   "elements": []
+  },
+  "ctov:village/beach/terminator": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/beach/town_centers": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/christmas/deco": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     4,
+     null,
+     "r"
+    ],
+    [
+     4,
+     null,
+     "r"
+    ],
+    [
+     1,
+     null,
+     "r"
+    ],
+    [
+     30,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/christmas/house": {
+   "fallback": "ctov:village/christmas/deco",
+   "elements": []
+  },
+  "ctov:village/christmas/roads": {
+   "fallback": "ctov:village/christmas/terminator",
+   "elements": []
+  },
+  "ctov:village/christmas/terminator": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/christmas/town_centers": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/common/animals": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/common/bees": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/common/cow": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/common/flowers": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/common/pet": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/common/pet_aquatic": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/common/sheep": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/common/villager/jungle": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/common/villager/swamp": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/desert/deco": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     30,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/desert/house": {
+   "fallback": "ctov:village/desert/deco",
+   "elements": []
+  },
+  "ctov:village/desert/roads": {
+   "fallback": "ctov:village/desert/terminator",
+   "elements": []
+  },
+  "ctov:village/desert/terminator": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/desert/town_centers": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/desert_oasis/deco": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     30,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/desert_oasis/house": {
+   "fallback": "ctov:village/desert_oasis/deco",
+   "elements": []
+  },
+  "ctov:village/desert_oasis/roads": {
+   "fallback": "ctov:village/desert_oasis/terminator",
+   "elements": []
+  },
+  "ctov:village/desert_oasis/terminator": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/desert_oasis/town_centers": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/halloween/deco": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     3,
+     null,
+     "r"
+    ],
+    [
+     3,
+     null,
+     "r"
+    ],
+    [
+     3,
+     null,
+     "r"
+    ],
+    [
+     3,
+     null,
+     "r"
+    ],
+    [
+     3,
+     null,
+     "r"
+    ],
+    [
+     30,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/halloween/house": {
+   "fallback": "ctov:village/halloween/deco",
+   "elements": []
+  },
+  "ctov:village/halloween/roads": {
+   "fallback": "ctov:village/halloween/terminator",
+   "elements": []
+  },
+  "ctov:village/halloween/terminator": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/halloween/town_centers": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/jungle/deco": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     null,
+     "r"
+    ],
+    [
+     1,
+     null,
+     "r"
+    ],
+    [
+     1,
+     null,
+     "r"
+    ],
+    [
+     30,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/jungle/house": {
+   "fallback": "ctov:village/jungle/deco",
+   "elements": []
+  },
+  "ctov:village/jungle/roads": {
+   "fallback": "ctov:village/jungle/terminator",
+   "elements": []
+  },
+  "ctov:village/jungle/terminator": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/jungle/town_centers": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/jungle_tree/house": {
+   "fallback": "ctov:village/jungle_tree/house_terminator",
+   "elements": []
+  },
+  "ctov:village/jungle_tree/house_terminator": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/jungle_tree/roads": {
+   "fallback": "ctov:village/jungle_tree/terminator",
+   "elements": []
+  },
+  "ctov:village/jungle_tree/terminator": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/jungle_tree/town_centers": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/mesa/deco": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     30,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/mesa/house": {
+   "fallback": "ctov:village/mesa/deco",
+   "elements": []
+  },
+  "ctov:village/mesa/roads": {
+   "fallback": "ctov:village/mesa/terminator",
+   "elements": []
+  },
+  "ctov:village/mesa/terminator": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/mesa/town_centers": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/mesa_fortified/deco": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     30,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/mesa_fortified/house": {
+   "fallback": "ctov:village/mesa_fortified/deco",
+   "elements": []
+  },
+  "ctov:village/mesa_fortified/roads": {
+   "fallback": "ctov:village/mesa_fortified/terminator",
+   "elements": []
+  },
+  "ctov:village/mesa_fortified/terminator": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/mesa_fortified/town_centers": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/mesa_fortified/tree": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/mountain/deco": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     null,
+     "r"
+    ],
+    [
+     1,
+     null,
+     "r"
+    ],
+    [
+     30,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/mountain/house": {
+   "fallback": "ctov:village/mountain/deco",
+   "elements": []
+  },
+  "ctov:village/mountain/roads": {
+   "fallback": "ctov:village/mountain/terminator",
+   "elements": []
+  },
+  "ctov:village/mountain/terminator": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/mountain/town_centers": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/mountain_alpine/deco": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     null,
+     "r"
+    ],
+    [
+     1,
+     null,
+     "r"
+    ],
+    [
+     30,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/mountain_alpine/house": {
+   "fallback": "ctov:village/mountain_alpine/deco",
+   "elements": []
+  },
+  "ctov:village/mountain_alpine/roads": {
+   "fallback": "ctov:village/mountain_alpine/terminator",
+   "elements": []
+  },
+  "ctov:village/mountain_alpine/terminator": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/mountain_alpine/town_centers": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/mushroom/deco": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     null,
+     "r"
+    ],
+    [
+     1,
+     null,
+     "r"
+    ],
+    [
+     1,
+     null,
+     "r"
+    ],
+    [
+     30,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/mushroom/house": {
+   "fallback": "ctov:village/mushroom/deco",
+   "elements": []
+  },
+  "ctov:village/mushroom/roads": {
+   "fallback": "ctov:village/mushroom/terminator",
+   "elements": []
+  },
+  "ctov:village/mushroom/terminator": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/mushroom/town_centers": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/plains/deco": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "plains__decos__lamp_1",
+     "r"
+    ],
+    [
+     1,
+     "plains__decos__lamp_2",
+     "r"
+    ],
+    [
+     1,
+     "plains__decos__lamp_3",
+     "r"
+    ],
+    [
+     1,
+     "plains__decos__lamp_4",
+     "r"
+    ],
+    [
+     1,
+     "plains__decos__well",
+     "r"
+    ],
+    [
+     1,
+     "plains__decos__hay_bale",
+     "r"
+    ],
+    [
+     1,
+     "plains__decos__wagon",
+     "r"
+    ],
+    [
+     1,
+     null,
+     "r"
+    ],
+    [
+     1,
+     null,
+     "r"
+    ],
+    [
+     1,
+     null,
+     "r"
+    ],
+    [
+     1,
+     null,
+     "r"
+    ],
+    [
+     30,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/plains/house": {
+   "fallback": "ctov:village/plains/deco",
+   "elements": [
+    [
+     5,
+     "plains__house__small_1",
+     "r"
+    ],
+    [
+     5,
+     "plains__house__small_2",
+     "r"
+    ],
+    [
+     5,
+     "plains__house__small_3",
+     "r"
+    ],
+    [
+     5,
+     "plains__house__small_4",
+     "r"
+    ],
+    [
+     5,
+     "plains__house__small_5",
+     "r"
+    ],
+    [
+     5,
+     "plains__house__med_1",
+     "r"
+    ],
+    [
+     5,
+     "plains__house__med_2",
+     "r"
+    ],
+    [
+     5,
+     "plains__house__big_1",
+     "r"
+    ],
+    [
+     5,
+     "plains__house__big_2",
+     "r"
+    ],
+    [
+     5,
+     "plains__jobsite__butcher",
+     "r"
+    ],
+    [
+     5,
+     "plains__jobsite__cartography",
+     "r"
+    ],
+    [
+     5,
+     "plains__jobsite__chemist",
+     "r"
+    ],
+    [
+     5,
+     "plains__jobsite__fishing_hut",
+     "r"
+    ],
+    [
+     5,
+     "plains__jobsite__library",
+     "r"
+    ],
+    [
+     5,
+     "plains__jobsite__shepherd",
+     "r"
+    ],
+    [
+     5,
+     "plains__jobsite__mason",
+     "r"
+    ],
+    [
+     2,
+     "plains__jobsite__pen",
+     "r"
+    ],
+    [
+     2,
+     "plains__jobsite__farm",
+     "r"
+    ],
+    [
+     5,
+     "plains__jobsite__smith",
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/plains/roads": {
+   "fallback": "ctov:village/plains/terminator",
+   "elements": [
+    [
+     4,
+     "plains__roads__straight",
+     "t"
+    ],
+    [
+     1,
+     "plains__roads__corner_1",
+     "t"
+    ],
+    [
+     1,
+     "plains__roads__corner_2",
+     "t"
+    ],
+    [
+     1,
+     "plains__roads__t_1",
+     "t"
+    ],
+    [
+     1,
+     "plains__roads__t_2",
+     "t"
+    ],
+    [
+     1,
+     "plains__roads__t_3",
+     "t"
+    ],
+    [
+     1,
+     "plains__roads__crossroad",
+     "t"
+    ]
+   ]
+  },
+  "ctov:village/plains/terminator": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "plains__roads__terminator",
+     "t"
+    ]
+   ]
+  },
+  "ctov:village/plains/town_centers": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "plains__town_center",
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/plains_fortified/deco": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     null,
+     "r"
+    ],
+    [
+     1,
+     null,
+     "r"
+    ],
+    [
+     1,
+     null,
+     "r"
+    ],
+    [
+     1,
+     null,
+     "r"
+    ],
+    [
+     30,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/plains_fortified/house": {
+   "fallback": "ctov:village/plains_fortified/deco",
+   "elements": []
+  },
+  "ctov:village/plains_fortified/roads": {
+   "fallback": "ctov:village/plains_fortified/terminator",
+   "elements": []
+  },
+  "ctov:village/plains_fortified/terminator": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/plains_fortified/town_centers": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/savanna/deco": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     30,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/savanna/house": {
+   "fallback": "ctov:village/savanna/deco",
+   "elements": []
+  },
+  "ctov:village/savanna/roads": {
+   "fallback": "ctov:village/savanna/terminator",
+   "elements": []
+  },
+  "ctov:village/savanna/terminator": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/savanna/town_centers": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/savanna_na/deco": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     30,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/savanna_na/house": {
+   "fallback": "ctov:village/savanna_na/deco",
+   "elements": []
+  },
+  "ctov:village/savanna_na/roads": {
+   "fallback": "ctov:village/savanna_na/terminator",
+   "elements": []
+  },
+  "ctov:village/savanna_na/terminator": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/savanna_na/town_centers": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/snowy_igloo/deco": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     4,
+     null,
+     "r"
+    ],
+    [
+     4,
+     null,
+     "r"
+    ],
+    [
+     1,
+     null,
+     "r"
+    ],
+    [
+     30,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/snowy_igloo/house": {
+   "fallback": "ctov:village/snowy_igloo/deco",
+   "elements": []
+  },
+  "ctov:village/snowy_igloo/roads": {
+   "fallback": "ctov:village/snowy_igloo/terminator",
+   "elements": []
+  },
+  "ctov:village/snowy_igloo/terminator": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/snowy_igloo/town_centers": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/swamp/deco": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     30,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/swamp/house": {
+   "fallback": "ctov:village/swamp/deco",
+   "elements": []
+  },
+  "ctov:village/swamp/roads": {
+   "fallback": "ctov:village/swamp/terminator",
+   "elements": []
+  },
+  "ctov:village/swamp/terminator": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/swamp/town_centers": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/swamp_fortified/deco": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     30,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/swamp_fortified/house": {
+   "fallback": "ctov:village/swamp_fortified/deco",
+   "elements": []
+  },
+  "ctov:village/swamp_fortified/roads": {
+   "fallback": "ctov:village/swamp_fortified/terminator",
+   "elements": []
+  },
+  "ctov:village/swamp_fortified/terminator": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/swamp_fortified/town_centers": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/taiga/deco": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     1,
+     null,
+     "r"
+    ],
+    [
+     30,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/taiga/house": {
+   "fallback": "ctov:village/taiga/deco",
+   "elements": []
+  },
+  "ctov:village/taiga/roads": {
+   "fallback": "ctov:village/taiga/terminator",
+   "elements": []
+  },
+  "ctov:village/taiga/terminator": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/taiga/town_centers": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/taiga_fortified/deco": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     2,
+     null,
+     "r"
+    ],
+    [
+     1,
+     null,
+     "r"
+    ],
+    [
+     30,
+     null,
+     "r"
+    ]
+   ]
+  },
+  "ctov:village/taiga_fortified/house": {
+   "fallback": "ctov:village/taiga_fortified/deco",
+   "elements": []
+  },
+  "ctov:village/taiga_fortified/roads": {
+   "fallback": "ctov:village/taiga_fortified/terminator",
+   "elements": []
+  },
+  "ctov:village/taiga_fortified/terminator": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/taiga_fortified/town_centers": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/underground/house": {
+   "fallback": "ctov:village/underground/wall",
+   "elements": []
+  },
+  "ctov:village/underground/roads": {
+   "fallback": "ctov:village/underground/small_wall",
+   "elements": []
+  },
+  "ctov:village/underground/small_wall": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/underground/start": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/underground/town_center": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "ctov:village/underground/wall": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  }
+ },
+ "sites": {
+  "plains:large/village_plains": {
+   "start_pool": "ctov:village/plains/town_centers",
+   "depth": 6,
+   "start_height": 0,
+   "on_surface": true,
+   "reach": 80,
+   "start_jigsaw": null,
+   "biomes": "#minecraft:has_structure/village_plains",
+   "adapt": "beard_thin"
+  },
+  "plains:medium/village_plains": {
+   "start_pool": "ctov:village/plains/town_centers",
+   "depth": 5,
+   "start_height": 0,
+   "on_surface": true,
+   "reach": 80,
+   "start_jigsaw": null,
+   "biomes": "#minecraft:has_structure/village_plains",
+   "adapt": "beard_thin"
+  },
+  "plains:small/village_plains": {
+   "start_pool": "ctov:village/plains/town_centers",
+   "depth": 4,
+   "start_height": 0,
+   "on_surface": true,
+   "reach": 80,
+   "start_jigsaw": null,
+   "biomes": "#minecraft:has_structure/village_plains",
+   "adapt": "beard_thin"
+  }
+ }
+}

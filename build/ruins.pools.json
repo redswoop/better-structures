@@ -1,0 +1,1520 @@
+{
+ "pools": {
+  "philipsruins:ancient_crypt/crypt_room1": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__crypt_room1",
+     "r"
+    ],
+    [
+     1,
+     "ruins__crypt_room2",
+     "r"
+    ],
+    [
+     1,
+     "ruins__crypt_room3",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:ancient_crypt/crypt_room2": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__crypt_room2",
+     "r"
+    ],
+    [
+     1,
+     "ruins__crypt_room3",
+     "r"
+    ],
+    [
+     1,
+     "ruins__crypt_room1",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:ancient_crypt/crypt_room3": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__crypt_room3",
+     "r"
+    ],
+    [
+     1,
+     "ruins__crypt_room2",
+     "r"
+    ],
+    [
+     1,
+     "ruins__crypt_room1",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:ancient_crypt/crypt_room4": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__crypt_room4",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:ancient_crypt/crypt_room5": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__crypt_room5",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:ancient_crypt/crypt_room6": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__crypt_room6",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:ancient_crypt/crypt_room7": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__crypt_room7",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:ancient_crypt/crypt_room8": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__crypt_room8",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:ancient_crypt/crypt_start": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__crypt_start",
+     "t"
+    ]
+   ]
+  },
+  "philipsruins:ancient_dungeon": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__ancient_dungeon_0",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_dungeon_1",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_dungeon_2",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_dungeon_3",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_dungeon_4",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_dungeon_5",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_dungeon_7",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_dungeon_8",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_dungeon_9",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_dungeon_10",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_dungeon_11",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_dungeon_12",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_dungeon_13",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:ancient_ruins": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__ancient_ruin_1",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_2",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_3",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_4",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_5",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_6",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_7",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_8",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_9",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_10",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_11",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_12",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_13",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_14",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_15",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_16",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_18",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_19",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_20",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_21",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_22",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_23",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_24",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_25",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_26",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_27",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_28",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_29",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_30",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_31",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_32",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_33",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_34",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_35",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_36",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_37",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_38",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_39",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_40",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:ancient_towers": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__ancient_tower_0",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_tower_1",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_tower_2",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_tower_3",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_tower_4",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_tower_5",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_tower_6",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_tower_7",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ancient_tower_8",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:end_ruins": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__end_ruin1",
+     "r"
+    ],
+    [
+     1,
+     "ruins__end_ruin2",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ship",
+     "r"
+    ],
+    [
+     1,
+     "ruins__end_ruin3",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:field_stone_ruins": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__field_stone_ruins1",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins2",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins3",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins4",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins5",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins6",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins7",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins8",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins9",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins10",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins11",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins12",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins13",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins14",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins15",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins16",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins17",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins18",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins19",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins20",
+     "t"
+    ]
+   ]
+  },
+  "philipsruins:field_stone_ruins_rocks": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__field_stone_ruins_rock1",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins_rock2",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins_rock3",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins_rock4",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins_rock5",
+     "t"
+    ],
+    [
+     1,
+     "ruins__field_stone_ruins_rock6",
+     "t"
+    ]
+   ]
+  },
+  "philipsruins:level_one_ruins": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__level_one_ruins1",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_one_ruins2",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_one_ruins3",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_one_ruins4",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_one_ruins5",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_one_ruins6",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_one_ruins7",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_one_ruins8",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_one_ruins9",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_one_ruins10",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_one_ruins11",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_one_ruins12",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_one_ruins13",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_one_ruins14",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_one_ruins15",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_one_ruins16",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_one_ruins17",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_one_ruins18",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_one_ruins19",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_one_ruins20",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_one_ruins21",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_one_ruins22",
+     "t"
+    ]
+   ]
+  },
+  "philipsruins:level_three_ruins": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__level_three_ruins1",
+     "r"
+    ],
+    [
+     1,
+     "ruins__level_three_ruins2",
+     "r"
+    ],
+    [
+     1,
+     "ruins__level_three_ruins3",
+     "r"
+    ],
+    [
+     1,
+     "ruins__level_three_ruins4",
+     "r"
+    ],
+    [
+     1,
+     "ruins__level_ruin_three5",
+     "r"
+    ],
+    [
+     1,
+     "ruins__level_ruin_three6",
+     "r"
+    ],
+    [
+     1,
+     "ruins__level_ruin_three7",
+     "r"
+    ],
+    [
+     1,
+     "ruins__level_ruin_three8",
+     "r"
+    ],
+    [
+     1,
+     "ruins__level_ruin_three9",
+     "r"
+    ],
+    [
+     1,
+     "ruins__level_ruin_three10",
+     "r"
+    ],
+    [
+     1,
+     "ruins__data_pack__level_ruin_three11",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:level_two_ruins": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__ruin2",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ruin3",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ruin4",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ruin5",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ruin6",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ruin7",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ruin8",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ruin9",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ruin10",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ruin11",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ruin12",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ruin_tower",
+     "t"
+    ],
+    [
+     1,
+     "ruins__small_ruin3",
+     "t"
+    ],
+    [
+     1,
+     "ruins__small_ruin4",
+     "t"
+    ],
+    [
+     1,
+     "ruins__small_ruin5",
+     "t"
+    ],
+    [
+     1,
+     "ruins__small_ruin6",
+     "t"
+    ],
+    [
+     1,
+     "ruins__small_ruin_stone_ruin_house",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_two_ruins1",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_two_ruins2",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_two_ruins3",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_two_ruins4",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_two_ruins5",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ruins_house_with_tree",
+     "t"
+    ],
+    [
+     1,
+     "ruins__level_two_ruins6",
+     "t"
+    ]
+   ]
+  },
+  "philipsruins:level_two_ruins_pool": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__ancient_ruin2",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin3",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin4",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin8",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin9",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin10",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin11",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin12",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin13",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin16",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin17",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin18",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin18_spawner",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin19",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_15",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_downstair",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ancient_ruin_soul1",
+     "t"
+    ],
+    [
+     1,
+     "ruins__ancient_ruins5",
+     "t"
+    ],
+    [
+     1,
+     "ruins__lost_ruins",
+     "t"
+    ],
+    [
+     1,
+     "ruins__battle_ancient_ruin",
+     "t"
+    ],
+    [
+     1,
+     "ruins__deep_ruin9",
+     "t"
+    ]
+   ]
+  },
+  "philipsruins:lost_soul_city/lost_soul_city_part1": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__lost_soul_city_part1",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:lost_soul_city/lost_soul_city_part2": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__lost_soul_city_part2",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:lost_soul_city/lost_soul_city_part3": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__lost_soul_city_part3",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:lost_soul_city/lost_soul_city_part4": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__lost_soul_city_part4",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:lost_soul_city/lost_soul_city_start": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__lost_soul_city_start",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:lost_soul_dungeon/lost_soul_start_pool": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__lost_soul_start_pool",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:lost_soul_dungeon/side_pool": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     100,
+     "ruins__lost_soul_walkway1",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:lost_soul_dungeon/side_pool2": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     100,
+     "ruins__walkway2",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:lost_soul_dungeon/side_pool3": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     100,
+     "ruins__walkway3",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:lost_soul_dungeon/side_pool4": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     100,
+     "ruins__lost_prison1",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:ocean_fortress/ocean_fortress_main": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__ocean_fortress_main",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:ocean_fortress/ocean_fortress_part1": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__ocean_fortress_part1",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:ocean_fortress/ocean_fortress_part2": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__ocean_fortress_part2",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:ocean_fortress/ocean_fortress_part3": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__ocean_fortress_part3",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:ocean_ruins": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__ocean_ruin1",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ocean_ruin2",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ocean_ruin3",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ocean_ruin4",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ocean_ruin5",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ocean_ruin6",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ocean_ruin7",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ocean_ruin8",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ocean_ruin9",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ocean_ruin10",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ocean_ruin11",
+     "r"
+    ],
+    [
+     1,
+     "ruins__ruin_guardian_statue",
+     "r"
+    ]
+   ]
+  },
+  "philipsruins:pumpkin_ruins": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__pumpkin_ruin_one",
+     "t"
+    ],
+    [
+     1,
+     "ruins__pumpkin_ruin_two",
+     "t"
+    ],
+    [
+     1,
+     "ruins__pumpkin_ruin_three",
+     "t"
+    ],
+    [
+     1,
+     "ruins__pumpkin_ruin_four",
+     "t"
+    ],
+    [
+     1,
+     "ruins__pumpkin_ruin_five",
+     "t"
+    ],
+    [
+     1,
+     "ruins__pumpkin_ruin_six",
+     "t"
+    ],
+    [
+     1,
+     "ruins__pumpkin_ruin_seven",
+     "t"
+    ],
+    [
+     1,
+     "ruins__pumpkin_ruin_eight",
+     "t"
+    ],
+    [
+     1,
+     "ruins__pumpkin_ruin_nine",
+     "t"
+    ],
+    [
+     1,
+     "ruins__pumpkin_ruin_ten",
+     "t"
+    ]
+   ]
+  },
+  "philipsruins:rare_ruin": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__rare_ruin",
+     "t"
+    ]
+   ]
+  },
+  "philipsruins:ruins_1_21_4/ruins": {
+   "fallback": "minecraft:empty",
+   "elements": []
+  },
+  "philipsruins:underground_structures": {
+   "fallback": "minecraft:empty",
+   "elements": [
+    [
+     1,
+     "ruins__deep_ruin2",
+     "r"
+    ],
+    [
+     1,
+     "ruins__deep_ruin3",
+     "r"
+    ],
+    [
+     1,
+     "ruins__deep_ruin5",
+     "r"
+    ],
+    [
+     1,
+     "ruins__deep_ruin6",
+     "r"
+    ],
+    [
+     1,
+     "ruins__deep_ruin7",
+     "r"
+    ],
+    [
+     1,
+     "ruins__deep_ruin8",
+     "r"
+    ],
+    [
+     1,
+     "ruins__deep_ruin9",
+     "r"
+    ],
+    [
+     1,
+     "ruins__deep_ruinbig1",
+     "r"
+    ],
+    [
+     1,
+     "ruins__deep_ruins",
+     "r"
+    ],
+    [
+     1,
+     "ruins__deepslate_city1",
+     "r"
+    ]
+   ]
+  }
+ },
+ "sites": {
+  "ruins:ancient_crypt": {
+   "start_pool": "philipsruins:ancient_crypt/crypt_start",
+   "depth": 7,
+   "start_height": -5,
+   "on_surface": true,
+   "reach": 100,
+   "start_jigsaw": null,
+   "biomes": "#philipsruins:has_structure/ancient_crypt_biomes",
+   "adapt": "beard_box"
+  },
+  "ruins:ancient_dungeon": {
+   "start_pool": "philipsruins:ancient_dungeon",
+   "depth": 2,
+   "start_height": -30,
+   "on_surface": false,
+   "reach": 80,
+   "start_jigsaw": null,
+   "biomes": "#philipsruins:has_structure/ancient_dungeon_biomes",
+   "adapt": "bury"
+  },
+  "ruins:ancient_ruins": {
+   "start_pool": "philipsruins:ancient_ruins",
+   "depth": 2,
+   "start_height": 0,
+   "on_surface": true,
+   "reach": 80,
+   "start_jigsaw": null,
+   "biomes": "#philipsruins:has_structure/ancient_ruins_biomes",
+   "adapt": "beard_thin"
+  },
+  "ruins:ancient_towers": {
+   "start_pool": "philipsruins:ancient_towers",
+   "depth": 2,
+   "start_height": 0,
+   "on_surface": true,
+   "reach": 80,
+   "start_jigsaw": null,
+   "biomes": "#philipsruins:has_structure/ancient_towers_biomes",
+   "adapt": "beard_thin"
+  },
+  "ruins:field_stone_ruins": {
+   "start_pool": "philipsruins:field_stone_ruins",
+   "depth": 2,
+   "start_height": 0,
+   "on_surface": true,
+   "reach": 100,
+   "start_jigsaw": null,
+   "biomes": "#philipsruins:has_structure/level_two_ruins_biomes",
+   "adapt": "beard_thin"
+  },
+  "ruins:field_stone_ruins_rocks": {
+   "start_pool": "philipsruins:field_stone_ruins_rocks",
+   "depth": 2,
+   "start_height": 0,
+   "on_surface": true,
+   "reach": 100,
+   "start_jigsaw": null,
+   "biomes": "#philipsruins:has_structure/field_stone_ruins_rocks_biomes",
+   "adapt": "beard_thin"
+  },
+  "ruins:level_one_ruins": {
+   "start_pool": "philipsruins:level_one_ruins",
+   "depth": 2,
+   "start_height": 0,
+   "on_surface": true,
+   "reach": 80,
+   "start_jigsaw": null,
+   "biomes": "#philipsruins:has_structure/level_two_ruins_biomes",
+   "adapt": "beard_thin"
+  },
+  "ruins:level_three_ruins": {
+   "start_pool": "philipsruins:level_three_ruins",
+   "depth": 2,
+   "start_height": 0,
+   "on_surface": true,
+   "reach": 80,
+   "start_jigsaw": null,
+   "biomes": "#philipsruins:has_structure/level_two_ruins_biomes",
+   "adapt": "beard_thin"
+  },
+  "ruins:level_two_ruins": {
+   "start_pool": "philipsruins:level_two_ruins",
+   "depth": 2,
+   "start_height": 0,
+   "on_surface": true,
+   "reach": 80,
+   "start_jigsaw": null,
+   "biomes": "#philipsruins:has_structure/level_two_ruins_biomes",
+   "adapt": "beard_thin"
+  },
+  "ruins:level_two_ruins_pool": {
+   "start_pool": "philipsruins:level_two_ruins_pool",
+   "depth": 2,
+   "start_height": 0,
+   "on_surface": true,
+   "reach": 80,
+   "start_jigsaw": null,
+   "biomes": "#philipsruins:has_structure/level_two_ruins_biomes",
+   "adapt": "beard_thin"
+  },
+  "ruins:lost_soul_city": {
+   "start_pool": "philipsruins:lost_soul_city/lost_soul_city_start",
+   "depth": 7,
+   "start_height": -40,
+   "on_surface": false,
+   "reach": 80,
+   "start_jigsaw": null,
+   "biomes": "#philipsruins:has_structure/lost_soul_city_biomes",
+   "adapt": "beard_thin"
+  },
+  "ruins:lost_soul_dungeon": {
+   "start_pool": "philipsruins:lost_soul_dungeon/lost_soul_start_pool",
+   "depth": 7,
+   "start_height": -27,
+   "on_surface": false,
+   "reach": 80,
+   "start_jigsaw": null,
+   "biomes": "#philipsruins:has_structure/lost_soul_dungeon_biomes",
+   "adapt": "beard_thin"
+  },
+  "ruins:ocean_fortress": {
+   "start_pool": "philipsruins:ocean_fortress/ocean_fortress_main",
+   "depth": 7,
+   "start_height": -5,
+   "on_surface": true,
+   "reach": 80,
+   "start_jigsaw": null,
+   "biomes": "#philipsruins:has_structure/ocean_ruins_biomes",
+   "adapt": "beard_box"
+  },
+  "ruins:ocean_ruins": {
+   "start_pool": "philipsruins:ocean_ruins",
+   "depth": 7,
+   "start_height": -3,
+   "on_surface": true,
+   "reach": 80,
+   "start_jigsaw": null,
+   "biomes": "#philipsruins:has_structure/ocean_ruins_biomes",
+   "adapt": "beard_thin"
+  },
+  "ruins:pumpkin_ruins": {
+   "start_pool": "philipsruins:pumpkin_ruins",
+   "depth": 2,
+   "start_height": 0,
+   "on_surface": true,
+   "reach": 80,
+   "start_jigsaw": null,
+   "biomes": "#philipsruins:has_structure/pumpkin_ruins_biomes",
+   "adapt": "beard_thin"
+  },
+  "ruins:rare_ruin": {
+   "start_pool": "philipsruins:rare_ruin",
+   "depth": 2,
+   "start_height": -1,
+   "on_surface": true,
+   "reach": 80,
+   "start_jigsaw": null,
+   "biomes": "#philipsruins:has_structure/rare_ruin_biomes",
+   "adapt": "beard_thin"
+  },
+  "ruins:underground_structures": {
+   "start_pool": "philipsruins:underground_structures",
+   "depth": 2,
+   "start_height": -40,
+   "on_surface": false,
+   "reach": 80,
+   "start_jigsaw": null,
+   "biomes": "#philipsruins:has_structure/lost_soul_dungeon_biomes",
+   "adapt": "beard_thin"
+  }
+ }
+}
